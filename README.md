@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Feb 27 - [サンプル投稿](https://hack.jp/test-markdown/)
+- Feb 25 - [Flake it till you make it](https://hack.jp/flake-it-till-you-make-it/)
 <!-- feed end -->
 
 
