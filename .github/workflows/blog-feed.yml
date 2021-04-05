@@ -1,3 +1,8 @@
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 20 * * *'
+
 steps:
   - uses: actions/checkout@v2
   - uses: sarisia/actions-readme-feed@v1
