@@ -5,8 +5,11 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Feb 27 - [サンプル投稿](https://hack.jp/test-markdown/)
-- Feb 25 - [Flake it till you make it](https://hack.jp/flake-it-till-you-make-it/)
+- Sep 12 - [Windowsのバージョンを取得(C++)](https://hack.jp/WindowsVersion/)
+- Sep 12 - [15パズル(C++)](https://hack.jp/15Puzzle/)
+- Feb 17 - [リストボックスの項目の高さを変更する(C#)](https://hack.jp/FormsListBoxItemHeight/)
+- Sep 13 - [クイックソート(C++)](https://hack.jp/QuickSort/)
+- Sep 11 - [FizzBuzz(C++)](https://hack.jp/FizzBuzz/)
 <!-- feed end -->
 
 
