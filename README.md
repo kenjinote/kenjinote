@@ -5,7 +5,9 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 19 - [TIOBEによるプログラミン言語ランキング2021年版](https://hack.jp/TIOBE2021/)
 - Sep 19 - [配列をランダムに並び替える(C++)](https://hack.jp/ShuffleList/)
+- Sep 14 - [Windows に Python をインストールする(Python)](https://hack.jp/Python/)
 - Sep 12 - [Windowsのバージョンを取得(C++)](https://hack.jp/WindowsVersion/)
 - Sep 12 - [バブルソートとクイックソートの比較（その１）(C++)](https://hack.jp/SortOrderGraph/)
 - Sep 12 - [バブルソートとクイックソートの比較（その２）(C++)](https://hack.jp/SortAnimationGIF/)
