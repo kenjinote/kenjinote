@@ -28,7 +28,7 @@
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=kenjinote)
 
 <!--
 **kenjinote/kenjinote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
