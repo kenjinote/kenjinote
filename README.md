@@ -13,7 +13,7 @@
 - Sep 12 - [バブルソートとクイックソートの比較（その１）(C++)](https://hack.jp/SortOrderGraph/)
 - Sep 12 - [バブルソートとクイックソートの比較（その２）(C++)](https://hack.jp/SortAnimationGIF/)
 - Sep 12 - [数独を解く(C++)](https://hack.jp/SolveSudoku/)
-- Sep 12 - [入力された Python のコードを動的に実行する単体プログラム(C++)](https://hack.jp/RunPython/)
+- Sep 12 - [入力された Pythonのコードを動的に実行する単体プログラム(C++)](https://hack.jp/RunPython/)
 - Sep 12 - [メルセンヌツイスターを使用したパスワードジェネレーター(C++)](https://hack.jp/PasswordGenerator/)
 - Sep 12 - [15パズル(C++)](https://hack.jp/15Puzzle/)
 - Mar 04 - [DirectXを使ってカオスを描画する(C++)](https://hack.jp/Chaos/)
