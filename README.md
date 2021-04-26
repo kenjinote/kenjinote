@@ -31,6 +31,11 @@
 ![](https://komarev.com/ghpvc/?username=kenjinote)
 
 <!-- SNS Links -->
+### SNS Links
+[<img align="left" alt="codewithkojo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kojoswic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="agyemangduahc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [website]: https://hack.jp
 [twitter]: https://twitter.com/kenjinote
 [linkedin]: https://www.linkedin.com/in/kenjinote/
