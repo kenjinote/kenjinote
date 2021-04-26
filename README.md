@@ -30,6 +30,11 @@
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=kenjinote)
 
+<!-- SNS Links -->
+[website]: https://hack.jp
+[twitter]: https://twitter.com/kenjinote
+[linkedin]: https://www.linkedin.com/in/kenjinote/
+
 <!--
 **kenjinote/kenjinote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
