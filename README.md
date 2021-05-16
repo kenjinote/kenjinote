@@ -6,7 +6,9 @@
 ### Recent Blog Posts
 <!-- feed start -->
 - Apr 19 - [TIOBEによるプログラミン言語ランキング2021年版](https://hack.jp/TIOBE2021/)
+- Oct 25 - [Windowsをシャットダウンさせる(C++)](https://hack.jp/Shutdown/)
 - Oct 15 - [GDI+ を使って JPEG の Exif 情報を取得する(C++)](https://hack.jp/GetJpegExif/)
+- Oct 12 - [文字列のURLエンコード・デコード(C++)](https://hack.jp/UrlEncode/)
 - Sep 19 - [配列をランダムに並び替える(C++)](https://hack.jp/ShuffleList/)
 - Sep 14 - [Windows に Python をインストールする(Python)](https://hack.jp/Python/)
 - Sep 12 - [Windowsのバージョンを取得(C++)](https://hack.jp/WindowsVersion/)
@@ -23,8 +25,6 @@
 - Sep 13 - [クイックソート(C++)](https://hack.jp/QuickSort/)
 - Sep 11 - [FizzBuzz(C++)](https://hack.jp/FizzBuzz/)
 - Sep 10 - [バブルソート(C++)](https://hack.jp/BubbleSort/)
-- Sep 08 - [移動できないウィンドウを作成(C++)](https://hack.jp/NoMoveWindow/)
-- Sep 06 - [メッセージボックスを親ウィンドウの中央に表示(C++)](https://hack.jp/MessageBoxCenter/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
