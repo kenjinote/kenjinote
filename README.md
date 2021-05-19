@@ -10,6 +10,8 @@
 - Oct 15 - [GDI+ を使って JPEG の Exif 情報を取得する(C++)](https://hack.jp/GetJpegExif/)
 - Oct 12 - [文字列のURLエンコード・デコード(C++)](https://hack.jp/UrlEncode/)
 - Sep 19 - [配列をランダムに並び替える(C++)](https://hack.jp/ShuffleList/)
+- Sep 16 - [起動時ウィンドウをアクティブ化しないようにする(WPF)](https://hack.jp/ShowActivated/)
+- Sep 14 - [動画スクリーンセーバー(C++)](https://hack.jp/VideoScreensaver/)
 - Sep 14 - [Windows に Python をインストールする(Python)](https://hack.jp/Python/)
 - Sep 12 - [Windowsのバージョンを取得(C++)](https://hack.jp/WindowsVersion/)
 - Sep 12 - [バブルソートとクイックソートの比較（その１）(C++)](https://hack.jp/SortOrderGraph/)
@@ -23,8 +25,6 @@
 - Feb 17 - [リストボックスの項目の高さを変更する(C#)](https://hack.jp/FormsListBoxItemHeight/)
 - Feb 11 - [現在接続している Wi-Fi のシグナル強度を取得する(C++)](https://hack.jp/GetWiFiSignalStrength/)
 - Sep 13 - [クイックソート(C++)](https://hack.jp/QuickSort/)
-- Sep 11 - [FizzBuzz(C++)](https://hack.jp/FizzBuzz/)
-- Sep 10 - [バブルソート(C++)](https://hack.jp/BubbleSort/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
