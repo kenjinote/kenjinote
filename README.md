@@ -13,6 +13,7 @@
 - Sep 16 - [起動時ウィンドウをアクティブ化しないようにする(WPF)](https://hack.jp/ShowActivated/)
 - Sep 14 - [動画スクリーンセーバー(C++)](https://hack.jp/VideoScreensaver/)
 - Sep 14 - [Windows に Python をインストールする(Python)](https://hack.jp/Python/)
+- Sep 13 - [マルチディスプレイ環境で各ディスプレイの解像度を取得する(C++)](https://hack.jp/GetDisplayPixels/)
 - Sep 12 - [Windowsのバージョンを取得(C++)](https://hack.jp/WindowsVersion/)
 - Sep 12 - [バブルソートとクイックソートの比較（その１）(C++)](https://hack.jp/SortOrderGraph/)
 - Sep 12 - [バブルソートとクイックソートの比較（その２）(C++)](https://hack.jp/SortAnimationGIF/)
@@ -24,7 +25,6 @@
 - Mar 03 - [Picturebox に貼り付けた画像を印刷する(VB)](https://hack.jp/PrintPicturebox/)
 - Feb 17 - [リストボックスの項目の高さを変更する(C#)](https://hack.jp/FormsListBoxItemHeight/)
 - Feb 11 - [現在接続している Wi-Fi のシグナル強度を取得する(C++)](https://hack.jp/GetWiFiSignalStrength/)
-- Sep 13 - [クイックソート(C++)](https://hack.jp/QuickSort/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
