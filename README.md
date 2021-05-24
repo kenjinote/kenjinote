@@ -18,7 +18,7 @@
 - Sep 12 - [Windowsのバージョンを取得(C++)](https://hack.jp/WindowsVersion/)
 - Sep 12 - [バブルソートとクイックソートの比較（その１）(C++)](https://hack.jp/SortOrderGraph/)
 - Sep 12 - [バブルソートとクイックソートの比較（その２）(C++)](https://hack.jp/SortAnimationGIF/)
-- Sep 12 - [数独を解く(C++)](https://hack.jp/SolveSudoku/)
+- Sep 12 - [コンピュータに数独を解かせる(C++)](https://hack.jp/SolveSudoku/)
 - Sep 12 - [指定した文字列をランダムに表示するスクリーンセイバー(C++)](https://hack.jp/Screensaver/)
 - Sep 12 - [入力されたPythonのコードを動的に実行する単体プログラム(C++)](https://hack.jp/RunPython/)
 - Sep 12 - [メルセンヌツイスターを使用したパスワードジェネレーター(C++)](https://hack.jp/PasswordGenerator/)
