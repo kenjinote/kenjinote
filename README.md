@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Nov 29 - [Windowsにおける標準コントロール一覧(C++)](https://hack.jp/WindowsControls/)
 - Jun 02 - [SQLiteを使ったデータベース検索(C++)](https://hack.jp/EnglishWordDictionary/)
 - Jun 01 - [ウィンドウの背景色を変更する(C++)](https://hack.jp/WindowBackgroundColor/)
 - Apr 19 - [TIOBEによるプログラミン言語ランキング2021年版](https://hack.jp/TIOBE2021/)
@@ -24,7 +25,6 @@
 - Sep 12 - [指定した文字列をランダムに表示するスクリーンセイバー(C++)](https://hack.jp/Screensaver/)
 - Sep 12 - [入力されたPythonのコードを動的に実行する単体プログラム(C++)](https://hack.jp/RunPython/)
 - Sep 12 - [メルセンヌツイスターを使用したパスワードジェネレーター(C++)](https://hack.jp/PasswordGenerator/)
-- Sep 12 - [15パズル(C++)](https://hack.jp/15Puzzle/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
