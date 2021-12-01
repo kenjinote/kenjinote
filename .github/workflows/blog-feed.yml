@@ -10,7 +10,7 @@ jobs:
         with:
           url: 'https://hack.jp/feed.xml'
           file: 'README.md'
-          max_entry: 20
+          max_entry: 10
       - run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
