@@ -5,16 +5,9 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Nov 29 - [Windowsの標準コントロール一覧](https://hack.jp/WindowsControls/)
-- Jun 02 - [SQLiteを使ったデータベース検索](https://hack.jp/EnglishWordDictionary/)
-- Jun 01 - [ウィンドウの背景色を変更する](https://hack.jp/WindowBackgroundColor/)
-- Apr 19 - [TIOBEによるプログラミン言語ランキング2021年版](https://hack.jp/TIOBE2021/)
-- Oct 25 - [Windowsをシャットダウンさせる](https://hack.jp/Shutdown/)
-- Oct 15 - [GDI+を使ってJPEGのExif情報を取得する](https://hack.jp/GetJpegExif/)
-- Oct 12 - [文字列のURLエンコード・デコード](https://hack.jp/UrlEncode/)
-- Sep 19 - [配列をランダムに並び替える](https://hack.jp/ShuffleList/)
-- Sep 16 - [起動時ウィンドウをアクティブ化しないようにする](https://hack.jp/ShowActivated/)
-- Sep 14 - [動画スクリーンセーバー](https://hack.jp/VideoScreensaver/)
+- Dec 12 - [動画スクリーンセーバー作りました](https://hack.jp/videoscreensaver/)
+- Dec 12 - [開発現場でよく使われる無料ツール10選](https://hack.jp/top-ten-tools/)
+- Dec 09 - [超簡単！Azure で WordPress を構築する方法](https://hack.jp/wordpress-on-azure/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
