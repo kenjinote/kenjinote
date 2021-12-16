@@ -5,7 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Dec 14 - [公式リアルタイム障害情報まとめ](https://hack.jp/services-status/)
+- Dec 14 - [リアルタイム障害情報公式ページまとめ](https://hack.jp/services-status/)
 - Dec 12 - [動画スクリーンセーバー作った](https://hack.jp/videoscreensaver/)
 - Dec 12 - [開発現場でよく使われる無料ツール10選](https://hack.jp/top-ten-tools/)
 - Dec 09 - [超簡単！Azure で WordPress を構築する方法](https://hack.jp/wordpress-on-azure/)
