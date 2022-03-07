@@ -5,7 +5,9 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Mar 06 - [超簡単！Azure で WordPress を構築する方法](https://hack.jp/52/)
+- Mar 07 - [コマンドプロンプト起動テクニック](https://hack.jp/107/)
+- Mar 07 - [開発現場でよく使われる無料ツール10選](https://hack.jp/89/)
+- Mar 06 - [超簡単！AzureでWordPressを構築する方法](https://hack.jp/52/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
