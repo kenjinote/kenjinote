@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 08 - [リアルタイム障害情報公式ページまとめ](https://hack.jp/134/)
+- Mar 08 - [動画スクリーンセーバー作りました](https://hack.jp/129/)
 - Mar 07 - [コマンドプロンプト起動テクニック](https://hack.jp/107/)
 - Mar 07 - [開発現場でよく使われる無料ツール10選](https://hack.jp/89/)
 - Mar 06 - [超簡単！AzureでWordPressを構築する方法](https://hack.jp/52/)
