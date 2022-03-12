@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 12 - [AzureでWordPressを構築する方法(bitnami編)](https://hack.jp/171/)
 - Mar 09 - [IE11を起動させる（Win11用）](https://hack.jp/159/)
 - Mar 09 - [画像形式変換ツールを作りました](https://hack.jp/151/)
 - Mar 09 - [パスワードジェネレーターを作りました](https://hack.jp/139/)
