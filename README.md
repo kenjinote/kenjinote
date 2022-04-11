@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 11 - [デジタル時計を作りました](https://hack.jp/269/)
 - Mar 15 - [ウサギとカメのアルゴリズム](https://hack.jp/253/)
 - Mar 14 - [無駄にかっこいいコマンドプロンプト（Win10,11）](https://hack.jp/237/)
 - Mar 12 - [AzureでWordPressを構築する方法(bitnami編)](https://hack.jp/171/)
@@ -14,7 +15,6 @@
 - Mar 08 - [リアルタイム障害情報公式ページまとめ](https://hack.jp/134/)
 - Mar 08 - [動画スクリーンセーバー作りました](https://hack.jp/129/)
 - Mar 07 - [コマンドプロンプト起動テクニック](https://hack.jp/107/)
-- Mar 07 - [開発現場でよく使われる無料ツール10選](https://hack.jp/89/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
