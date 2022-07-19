@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 16 - [Visual Studio CodeでC言語のソースコードをビルドして実行する](https://hack.jp/283/)
 - Apr 11 - [デジタル時計を作りました](https://hack.jp/269/)
 - Mar 15 - [ウサギとカメのアルゴリズム](https://hack.jp/253/)
 - Mar 14 - [無駄にかっこいいコマンドプロンプト（Win10,11）](https://hack.jp/237/)
@@ -14,7 +15,6 @@
 - Mar 09 - [パスワードジェネレーターを作りました](https://hack.jp/139/)
 - Mar 08 - [リアルタイム障害情報公式ページまとめ](https://hack.jp/134/)
 - Mar 08 - [動画スクリーンセーバー作りました](https://hack.jp/129/)
-- Mar 07 - [コマンドプロンプト起動テクニック](https://hack.jp/107/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
