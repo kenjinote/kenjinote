@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 21 - [WordPress ブログの移行方法（プラグイン編）](https://hack.jp/361/)
 - Jul 16 - [Visual Studio CodeでC言語のソースコードをビルドして実行する](https://hack.jp/283/)
 - Apr 11 - [デジタル時計を作りました](https://hack.jp/269/)
 - Mar 15 - [ウサギとカメのアルゴリズム](https://hack.jp/253/)
@@ -14,7 +15,6 @@
 - Mar 09 - [画像形式変換ツールを作りました](https://hack.jp/151/)
 - Mar 09 - [パスワードジェネレーターを作りました](https://hack.jp/139/)
 - Mar 08 - [リアルタイム障害情報公式ページまとめ](https://hack.jp/134/)
-- Mar 08 - [動画スクリーンセーバー作りました](https://hack.jp/129/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
