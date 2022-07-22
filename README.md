@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 22 - [Azure App Serviceのカスタムドメイン化とSSL化の方法](https://hack.jp/391/)
 - Jul 21 - [WordPress ブログの移行方法（プラグイン編）](https://hack.jp/361/)
 - Jul 16 - [Visual Studio CodeでC言語のソースコードをビルドして実行する](https://hack.jp/283/)
 - Apr 11 - [デジタル時計を作りました](https://hack.jp/269/)
@@ -14,7 +15,6 @@
 - Mar 09 - [IE11を起動させる（Win11用）](https://hack.jp/159/)
 - Mar 09 - [画像形式変換ツールを作りました](https://hack.jp/151/)
 - Mar 09 - [パスワードジェネレーターを作りました](https://hack.jp/139/)
-- Mar 08 - [リアルタイム障害情報公式ページまとめ](https://hack.jp/134/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
