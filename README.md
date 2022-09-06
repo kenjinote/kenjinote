@@ -22,12 +22,13 @@
 
 <!-- SNS Links -->
 ### SNS Links
-[<img align="left" alt="codewithkojo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codewithkojo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+[<img align="left" alt="codewithkojo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
 [<img align="left" alt="kojoswic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="agyemangduahc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://hack.jp
-[website]: https://kenji.blog
+[website1]: https://hack.jp
+[website2]: https://kenji.blog
 [twitter]: https://twitter.com/kenjinote
 [linkedin]: https://www.linkedin.com/in/kenjinote/
 
