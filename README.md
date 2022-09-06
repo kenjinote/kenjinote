@@ -27,6 +27,7 @@
 [<img align="left" alt="agyemangduahc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://hack.jp
+[website]: https://kenji.blog
 [twitter]: https://twitter.com/kenjinote
 [linkedin]: https://www.linkedin.com/in/kenjinote/
 
