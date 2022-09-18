@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 18 - [Windowsのショートカットなどちょっとした小技集](https://kenji.blog/posts/windows%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%81%AA%E3%81%A9%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E3%81%97%E3%81%9F%E5%B0%8F%E6%8A%80%E9%9B%86/)
 - Sep 14 - [paint.netの魅力](https://kenji.blog/posts/paint.net%E3%81%AE%E9%AD%85%E5%8A%9B/)
 - Sep 12 - [Githubリポジトリにカスタムドメインを設定する方法](https://kenji.blog/posts/github%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AB%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Sep 12 - [dotnetコマンドで.gitignoreを生成する](https://kenji.blog/posts/dotnet%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%A7.gitignore%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8B/)
@@ -14,7 +15,6 @@
 - Sep 11 - [HUGOで使えるショートコード](https://kenji.blog/posts/hugo%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89/)
 - Sep 11 - [PaperModの画像の配置変更](https://kenji.blog/posts/papermod%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E9%85%8D%E7%BD%AE%E5%A4%89%E6%9B%B4/)
 - Sep 10 - [PaperModでTwitter Cardを設定する方法](https://kenji.blog/posts/papermod%E3%81%A7twitter-card%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
-- Sep 10 - [IntelliJ IDEAでGitHub Copilotを使う](https://kenji.blog/posts/intellij-idea%E3%81%A7github-copilot%E3%82%92%E4%BD%BF%E3%81%86/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
