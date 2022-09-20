@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 20 - [ウィンドウタイトルの列挙](https://kenji.blog/posts/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AE%E5%88%97%E6%8C%99/)
+- Sep 20 - [大きなフォルダーを高速一括削除](https://kenji.blog/posts/%E5%A4%A7%E3%81%8D%E3%81%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%E3%82%92%E9%AB%98%E9%80%9F%E4%B8%80%E6%8B%AC%E5%89%8A%E9%99%A4/)
 - Sep 19 - [Salesforceチャッター全消しコマンド](https://kenji.blog/posts/salesforce%E3%83%81%E3%83%A3%E3%83%83%E3%82%BF%E3%83%BC%E5%85%A8%E6%B6%88%E3%81%97%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/)
 - Sep 18 - [Windowsのショートカット・小技集](https://kenji.blog/posts/windows%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E5%B0%8F%E6%8A%80%E9%9B%86/)
 - Sep 14 - [paint.netの魅力](https://kenji.blog/posts/paint.net%E3%81%AE%E9%AD%85%E5%8A%9B/)
@@ -13,8 +15,6 @@
 - Sep 12 - [好きなゲーム11選](https://kenji.blog/posts/%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%B2%E3%83%BC%E3%83%A011%E9%81%B8/)
 - Sep 12 - [macOSで.DS_Storeを自動生成しないようにするコマンド](https://kenji.blog/posts/macos%E3%81%A7.ds_store%E3%82%92%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%81%97%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/)
 - Sep 12 - [PowerShellで.DS_Storeを一括削除する](https://kenji.blog/posts/powershell%E3%81%A7.ds_store%E3%82%92%E4%B8%80%E6%8B%AC%E5%89%8A%E9%99%A4%E3%81%99%E3%82%8B/)
-- Sep 11 - [HUGOで使えるショートコード](https://kenji.blog/posts/hugo%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B3%E3%83%BC%E3%83%89/)
-- Sep 11 - [PaperModの画像の配置変更](https://kenji.blog/posts/papermod%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E9%85%8D%E7%BD%AE%E5%A4%89%E6%9B%B4/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
