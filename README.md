@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 03 - [Rustの特徴](https://kenji.blog/posts/rust%E3%81%AE%E7%89%B9%E5%BE%B4/)
 - Oct 01 - [Github Actionsで動的に変数を設定する](https://kenji.blog/posts/github-actions%E3%81%A7%E5%8B%95%E7%9A%84%E3%81%AB%E5%A4%89%E6%95%B0%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B/)
 - Oct 01 - [gitでタグを消す](https://kenji.blog/posts/git%E3%81%A7%E3%82%BF%E3%82%B0%E3%82%92%E6%B6%88%E3%81%99/)
 - Oct 01 - [Rustでシンプルなウィンドウを表示する](https://kenji.blog/posts/rust%E3%81%A7%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/)
@@ -14,7 +15,6 @@
 - Sep 22 - [なぜ数学や計算機が好きなんだろう](https://kenji.blog/posts/%E3%81%AA%E3%81%9C%E6%95%B0%E5%AD%A6%E3%82%84%E8%A8%88%E7%AE%97%E6%A9%9F%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86/)
 - Sep 22 - [コミュニティに必要なこと](https://kenji.blog/posts/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%93%E3%81%A8/)
 - Sep 22 - [数学の偉人たち](https://kenji.blog/posts/%E6%95%B0%E5%AD%A6%E3%81%AE%E5%81%89%E4%BA%BA%E3%81%9F%E3%81%A1/)
-- Sep 20 - [ウィンドウタイトルの列挙](https://kenji.blog/posts/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AE%E5%88%97%E6%8C%99/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
