@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 13 - [グラフエディタ](https://kenji.blog/posts/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/)
 - Oct 12 - [Mathematicaで巡回セールスマン問題を解く](https://kenji.blog/posts/mathematica%E3%81%A7%E5%B7%A1%E5%9B%9E%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E3%81%8F/)
 - Oct 05 - [Webページ内のすべてのチェックボックスを全チェックする](https://kenji.blog/posts/web%E3%83%9A%E3%83%BC%E3%82%B8%E5%86%85%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%92%E5%85%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B/)
 - Oct 05 - [好きな数式](https://kenji.blog/posts/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%95%B0%E5%BC%8F/)
@@ -14,7 +15,6 @@
 - Oct 01 - [gitでタグを消す](https://kenji.blog/posts/git%E3%81%A7%E3%82%BF%E3%82%B0%E3%82%92%E6%B6%88%E3%81%99/)
 - Oct 01 - [Rustでシンプルなウィンドウを表示する](https://kenji.blog/posts/rust%E3%81%A7%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/)
 - Sep 30 - [Rustでテストを書く](https://kenji.blog/posts/rust%E3%81%A7%E3%83%86%E3%82%B9%E3%83%88%E3%82%92%E6%9B%B8%E3%81%8F/)
-- Sep 30 - [RustでMessageBoxを表示する](https://kenji.blog/posts/rust%E3%81%A7messagebox%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
