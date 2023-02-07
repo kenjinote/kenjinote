@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Feb 07 - [https://fontplus.jp/](https://kenji.blog/posts/fontplus.jp/)
 - Jan 17 - [HUGOでHTMLタグを使う](https://kenji.blog/posts/hugo%E3%81%A7html%E3%82%BF%E3%82%B0%E3%82%92%E4%BD%BF%E3%81%86/)
 - Jan 17 - [GitHubスポンサー募集](https://kenji.blog/posts/github%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86/)
 - Jan 14 - [ボタンについて](https://kenji.blog/posts/%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%A4%E3%81%84%E3%81%A6/)
@@ -14,7 +15,6 @@
 - Oct 13 - [グラフエディタ](https://kenji.blog/posts/%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF/)
 - Oct 12 - [Mathematicaで巡回セールスマン問題を解く](https://kenji.blog/posts/mathematica%E3%81%A7%E5%B7%A1%E5%9B%9E%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E3%81%8F/)
 - Oct 05 - [Webページ内のすべてのチェックボックスを全チェックする](https://kenji.blog/posts/web%E3%83%9A%E3%83%BC%E3%82%B8%E5%86%85%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%92%E5%85%A8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B/)
-- Oct 05 - [好きな数式](https://kenji.blog/posts/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%95%B0%E5%BC%8F/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
