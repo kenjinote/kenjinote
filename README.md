@@ -5,7 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Feb 07 - [https://fontplus.jp/](https://kenji.blog/posts/fontplus.jp/)
+- Feb 07 - [fontplus.jpについて](https://kenji.blog/posts/fontplus.jp/)
 - Jan 17 - [HUGOでHTMLタグを使う](https://kenji.blog/posts/hugo%E3%81%A7html%E3%82%BF%E3%82%B0%E3%82%92%E4%BD%BF%E3%81%86/)
 - Jan 17 - [GitHubスポンサー募集](https://kenji.blog/posts/github%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC%E5%8B%9F%E9%9B%86/)
 - Jan 14 - [ボタンについて](https://kenji.blog/posts/%E3%83%9C%E3%82%BF%E3%83%B3%E3%81%A4%E3%81%84%E3%81%A6/)
