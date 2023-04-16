@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 16 - [映画TODOリスト](https://kenji.blog/posts/%E6%98%A0%E7%94%BBtodo%E3%83%AA%E3%82%B9%E3%83%88/)
+- Apr 16 - [かっこいいWebページテンプレート（html5up）](https://kenji.blog/posts/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84web%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88html5up/)
 - Apr 15 - [C++で現在時刻をISO8601フォーマットで出力する方法](https://kenji.blog/posts/c++%E3%81%A7%E7%8F%BE%E5%9C%A8%E6%99%82%E5%88%BB%E3%82%92iso8601%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%A7%E5%87%BA%E5%8A%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Apr 11 - [Windowsをシャットダウンするショートカットを作成する方法](https://kenji.blog/posts/windows%E3%82%92%E3%82%B7%E3%83%A3%E3%83%83%E3%83%88%E3%83%80%E3%82%A6%E3%83%B3%E3%81%99%E3%82%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Apr 11 - [paint.netで画像の特定個所にモザイクをかける方法](https://kenji.blog/posts/paint.net%E3%81%A7%E7%94%BB%E5%83%8F%E3%81%AE%E7%89%B9%E5%AE%9A%E5%80%8B%E6%89%80%E3%81%AB%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E6%96%B9%E6%B3%95/)
@@ -13,8 +15,6 @@
 - Apr 09 - [【言語別】オンラインのコード実行環境まとめ](https://kenji.blog/posts/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E5%AE%9F%E8%A1%8C%E7%92%B0%E5%A2%83%E3%81%BE%E3%81%A8%E3%82%81/)
 - Apr 09 - [エラトステネスの篩を使って1000以下の素数を列挙する方法](https://kenji.blog/posts/%E3%82%A8%E3%83%A9%E3%83%88%E3%82%B9%E3%83%86%E3%83%8D%E3%82%B9%E3%81%AE%E7%AF%A9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A61000%E4%BB%A5%E4%B8%8B%E3%81%AE%E7%B4%A0%E6%95%B0%E3%82%92%E5%88%97%E6%8C%99%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Apr 08 - [macにCocoaPodsをインストールする方法](https://kenji.blog/posts/mac%E3%81%ABcocoapods%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
-- Apr 08 - [SalesforceのSOQLを利用して日別のレコード作成数を取得する方法](https://kenji.blog/posts/salesforce%E3%81%AEsoql%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E6%97%A5%E5%88%A5%E3%81%AE%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E4%BD%9C%E6%88%90%E6%95%B0%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
-- Apr 08 - [Python(matplotlib.pyplot)を使ってグラフを描画する方法](https://kenji.blog/posts/pythonmatplotlib.pyplot%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%B0%E3%83%A9%E3%83%95%E3%82%92%E6%8F%8F%E7%94%BB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
