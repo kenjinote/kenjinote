@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 30 - [エクスプローラーの終了・再起動方法](https://kenji.blog/posts/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%AE%E7%B5%82%E4%BA%86%E5%86%8D%E8%B5%B7%E5%8B%95%E6%96%B9%E6%B3%95/)
 - Mar 29 - [プログラミングで使えるフォント集](https://kenji.blog/posts/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E9%9B%86/)
 - Mar 29 - [コマンド「hide」で秀丸エディタを立ち上げる方法](https://kenji.blog/posts/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89hide%E3%81%A7%E7%A7%80%E4%B8%B8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%82%92%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Mar 02 - [数学の未解決問題](https://kenji.blog/posts/%E6%95%B0%E5%AD%A6%E3%81%AE%E6%9C%AA%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C/)
@@ -14,7 +15,6 @@
 - Jan 06 - [日本の災害](https://kenji.blog/posts/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%81%BD%E5%AE%B3/)
 - Jan 06 - [七草粥のレシピ](https://kenji.blog/posts/%E4%B8%83%E8%8D%89%E7%B2%A5%E3%81%AE%E3%83%AC%E3%82%B7%E3%83%94/)
 - Jan 05 - [好きな邦楽](https://kenji.blog/posts/%E5%A5%BD%E3%81%8D%E3%81%AA%E9%82%A6%E6%A5%BD/)
-- Jan 04 - [好きな洋楽](https://kenji.blog/posts/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%B4%8B%E6%A5%BD/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
