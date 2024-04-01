@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 01 - [バースデイパラドックスとは](https://kenji.blog/posts/%E3%83%90%E3%83%BC%E3%82%B9%E3%83%87%E3%82%A4%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A8%E3%81%AF/)
+- Apr 01 - [Snipping Toolの使い方](https://kenji.blog/posts/snipping-tool%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/)
 - Mar 31 - [コンピューターをロックするショートカットを作成する方法](https://kenji.blog/posts/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E3%83%AD%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Mar 31 - [モンティ・ホール問題](https://kenji.blog/posts/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%9B%E3%83%BC%E3%83%AB%E5%95%8F%E9%A1%8C/)
 - Mar 31 - [テキストエディタmicroをWindowsにインストールする方法](https://kenji.blog/posts/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BFmicro%E3%82%92windows%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
@@ -13,8 +15,6 @@
 - Mar 30 - [エクスプローラーの終了・再起動方法](https://kenji.blog/posts/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%AE%E7%B5%82%E4%BA%86%E5%86%8D%E8%B5%B7%E5%8B%95%E6%96%B9%E6%B3%95/)
 - Mar 29 - [プログラミングで使えるフォント集](https://kenji.blog/posts/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E9%9B%86/)
 - Mar 29 - [コマンド「hide」で秀丸エディタを立ち上げる方法](https://kenji.blog/posts/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89hide%E3%81%A7%E7%A7%80%E4%B8%B8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%82%92%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%8B%E6%96%B9%E6%B3%95/)
-- Mar 02 - [数学の未解決問題](https://kenji.blog/posts/%E6%95%B0%E5%AD%A6%E3%81%AE%E6%9C%AA%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C/)
-- Mar 02 - [いろんなバージョン情報ダイアログ集めてみた](https://kenji.blog/posts/%E3%81%84%E3%82%8D%E3%82%93%E3%81%AA%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E6%83%85%E5%A0%B1%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AD%E3%82%B0%E9%9B%86%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
