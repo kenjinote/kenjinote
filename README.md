@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 15 - [curlでQRコード生成](https://kenji.blog/posts/curl%E3%81%A7qr%E3%82%B3%E3%83%BC%E3%83%89%E7%94%9F%E6%88%90/)
 - Apr 07 - [Microsoft Wordのショートカット一覧](https://kenji.blog/posts/microsoft-word%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7/)
 - Apr 06 - [Webページの自動更新ブラウザ拡張(Edgeアドオン)](https://kenji.blog/posts/web%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E6%8B%A1%E5%BC%B5edge%E3%82%A2%E3%83%89%E3%82%AA%E3%83%B3/)
 - Apr 06 - [Visual Studio ショートカット一覧](https://kenji.blog/posts/visual-studio-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7/)
@@ -14,7 +15,6 @@
 - Mar 31 - [コンピューターをロックするショートカットを作成する方法](https://kenji.blog/posts/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%92%E3%83%AD%E3%83%83%E3%82%AF%E3%81%99%E3%82%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Mar 31 - [モンティ・ホール問題](https://kenji.blog/posts/%E3%83%A2%E3%83%B3%E3%83%86%E3%82%A3%E3%83%9B%E3%83%BC%E3%83%AB%E5%95%8F%E9%A1%8C/)
 - Mar 31 - [テキストエディタmicroをWindowsにインストールする方法](https://kenji.blog/posts/%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BFmicro%E3%82%92windows%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
-- Mar 31 - [CLIテキストエディタnanoをWindowsにインストールする方法](https://kenji.blog/posts/cli%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BFnano%E3%82%92windows%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
