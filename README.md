@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 21 - [証明書エラーでGitHub Copilotが使えなくなった場合の対処方法](https://kenji.blog/posts/%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%A7github-copilot%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
 - Apr 19 - [vim入門](https://kenji.blog/posts/vim%E5%85%A5%E9%96%80/)
 - Apr 18 - [LoadIconはDestroyIconを呼び出す必要はない](https://kenji.blog/posts/loadicon%E3%81%AFdestroyicon%E3%82%92%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84/)
 - Apr 15 - [生成AIについて](https://kenji.blog/posts/%E7%94%9F%E6%88%90ai%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
@@ -14,7 +15,6 @@
 - Apr 06 - [Visual Studio ショートカット一覧](https://kenji.blog/posts/visual-studio-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7/)
 - Apr 02 - [エクスプローラーの右クリックメニューに秀丸エディタgrepを追加する](https://kenji.blog/posts/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%AE%E5%8F%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AB%E7%A7%80%E4%B8%B8%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BFgrep%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B/)
 - Apr 01 - [バースデイパラドックスとは](https://kenji.blog/posts/%E3%83%90%E3%83%BC%E3%82%B9%E3%83%87%E3%82%A4%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A8%E3%81%AF/)
-- Apr 01 - [Snipping Toolの使い方](https://kenji.blog/posts/snipping-tool%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
