@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- May 15 - [git resetを取り消す方法](https://kenji.blog/posts/git-reset%E3%82%92%E5%8F%96%E3%82%8A%E6%B6%88%E3%81%99%E6%96%B9%E6%B3%95/)
 - May 05 - [MS-DOS 4.0 のオープンソース化](https://kenji.blog/posts/ms-dos-4.0-%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9%E5%8C%96/)
 - May 05 - [エンジニア初学者におすすめの書籍](https://kenji.blog/posts/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E5%88%9D%E5%AD%A6%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E6%9B%B8%E7%B1%8D/)
 - Apr 30 - [Excelのカレンダーテンプレート（祝日対応版）](https://kenji.blog/posts/excel%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E4%BC%91%E6%97%A5%E5%AF%BE%E5%BF%9C%E7%89%88/)
@@ -14,7 +15,6 @@
 - Apr 19 - [vim入門](https://kenji.blog/posts/vim%E5%85%A5%E9%96%80/)
 - Apr 18 - [LoadIconはDestroyIconを呼び出す必要はない](https://kenji.blog/posts/loadicon%E3%81%AFdestroyicon%E3%82%92%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84/)
 - Apr 15 - [生成AIについて](https://kenji.blog/posts/%E7%94%9F%E6%88%90ai%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
-- Apr 15 - [curlでQRコード生成](https://kenji.blog/posts/curl%E3%81%A7qr%E3%82%B3%E3%83%BC%E3%83%89%E7%94%9F%E6%88%90/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
