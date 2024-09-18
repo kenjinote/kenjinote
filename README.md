@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 18 - [コンピュータの基本知識](https://kenji.blog/posts/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AD%98/)
+- Sep 18 - [おすすめiOSアプリ](https://kenji.blog/posts/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81ios%E3%82%A2%E3%83%97%E3%83%AA/)
 - Sep 17 - [老夫婦とロバの話](https://kenji.blog/posts/%E8%80%81%E5%A4%AB%E5%A9%A6%E3%81%A8%E3%83%AD%E3%83%90%E3%81%AE%E8%A9%B1/)
 - Sep 14 - [なぜ青色LEDを作ることがほぼ不可能だったのか](https://kenji.blog/posts/%E3%81%AA%E3%81%9C%E9%9D%92%E8%89%B2led%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%BB%E3%81%BC%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/)
 - Sep 12 - [Visual Studio Code に Qt All Extensions Pack を入れてみた](https://kenji.blog/posts/visual-studio-code-%E3%81%AB-qt-all-extensions-pack-%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/)
@@ -13,8 +15,6 @@
 - Sep 03 - [Microsoft MVP（2024-2025）を再受賞しました](https://kenji.blog/posts/microsoft-mvp2024-2025%E3%82%92%E5%86%8D%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/)
 - Sep 03 - [yt-dlp.exeによるYouTube動画のダウンロード方法](https://kenji.blog/posts/yt-dlp.exe%E3%81%AB%E3%82%88%E3%82%8Byoutube%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95/)
 - Aug 25 - [ショート動画リンク](https://kenji.blog/posts/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E5%8B%95%E7%94%BB%E3%83%AA%E3%83%B3%E3%82%AF/)
-- Aug 24 - [アインシュタインの名言](https://kenji.blog/posts/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%81%AE%E5%90%8D%E8%A8%80/)
-- Aug 24 - [素数を生成するC言語コード](https://kenji.blog/posts/%E7%B4%A0%E6%95%B0%E3%82%92%E7%94%9F%E6%88%90%E3%81%99%E3%82%8Bc%E8%A8%80%E8%AA%9E%E3%82%B3%E3%83%BC%E3%83%89/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
