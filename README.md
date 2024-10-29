@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 29 - [革製品のメンテナンス](https://kenji.blog/posts/%E9%9D%A9%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9/)
 - Sep 24 - [ハンロンの剃刀](https://kenji.blog/posts/%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80/)
 - Sep 18 - [コンピュータの基本知識](https://kenji.blog/posts/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AD%98/)
 - Sep 18 - [おすすめiOSアプリ](https://kenji.blog/posts/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81ios%E3%82%A2%E3%83%97%E3%83%AA/)
@@ -14,7 +15,6 @@
 - Sep 11 - [iPhoneにSIMロックがかかっているか確認する方法](https://kenji.blog/posts/iphone%E3%81%ABsim%E3%83%AD%E3%83%83%E3%82%AF%E3%81%8C%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Sep 10 - [P≠NP予想](https://kenji.blog/posts/pnp%E4%BA%88%E6%83%B3/)
 - Sep 03 - [Microsoft MVP（2024-2025）を再受賞しました](https://kenji.blog/posts/microsoft-mvp2024-2025%E3%82%92%E5%86%8D%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/)
-- Sep 03 - [yt-dlp.exeによるYouTube動画のダウンロード方法](https://kenji.blog/posts/yt-dlp.exe%E3%81%AB%E3%82%88%E3%82%8Byoutube%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E6%96%B9%E6%B3%95/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
