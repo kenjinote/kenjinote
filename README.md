@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Dec 21 - [高配当株まとめ](http://kenji.blog/p/%E9%AB%98%E9%85%8D%E5%BD%93%E6%A0%AA%E3%81%BE%E3%81%A8%E3%82%81/)
 - Dec 07 - [目標](http://kenji.blog/p/%E7%9B%AE%E6%A8%99/)
 - Dec 07 - [About](http://kenji.blog/about/)
 - Oct 29 - [革製品のメンテナンス](http://kenji.blog/p/%E9%9D%A9%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9/)
@@ -14,7 +15,6 @@
 - Sep 17 - [老夫婦とロバの話](http://kenji.blog/p/%E8%80%81%E5%A4%AB%E5%A9%A6%E3%81%A8%E3%83%AD%E3%83%90%E3%81%AE%E8%A9%B1/)
 - Sep 14 - [なぜ青色LEDを作ることがほぼ不可能だったのか](http://kenji.blog/p/%E3%81%AA%E3%81%9C%E9%9D%92%E8%89%B2led%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%BB%E3%81%BC%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8B/)
 - Sep 12 - [Visual Studio Code に Qt All Extensions Pack を入れてみた](http://kenji.blog/p/visual-studio-code-%E3%81%AB-qt-all-extensions-pack-%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F/)
-- Sep 11 - [iPhoneにSIMロックがかかっているか確認する方法](http://kenji.blog/p/iphone%E3%81%ABsim%E3%83%AD%E3%83%83%E3%82%AF%E3%81%8C%E3%81%8B%E3%81%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
