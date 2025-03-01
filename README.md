@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Mar 01 - [iOS向けのffmpegパラメータ](http://kenji.blog/p/ios%E5%90%91%E3%81%91%E3%81%AEffmpeg%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF/)
 - Feb 27 - [Android(Google Pixel)端末の復元手順](http://kenji.blog/p/androidgoogle-pixel%E7%AB%AF%E6%9C%AB%E3%81%AE%E5%BE%A9%E5%85%83%E6%89%8B%E9%A0%86/)
 - Feb 26 - [Gmailをcurlから送る](http://kenji.blog/p/gmail%E3%82%92curl%E3%81%8B%E3%82%89%E9%80%81%E3%82%8B/)
 - Feb 24 - [Pythonコード片](http://kenji.blog/p/python%E3%82%B3%E3%83%BC%E3%83%89%E7%89%87/)
@@ -14,7 +15,6 @@
 - Dec 07 - [About](http://kenji.blog/about/)
 - Oct 29 - [革製品のメンテナンス](http://kenji.blog/p/%E9%9D%A9%E8%A3%BD%E5%93%81%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9/)
 - Sep 24 - [ハンロンの剃刀](http://kenji.blog/p/%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80/)
-- Sep 18 - [コンピュータの基本知識](http://kenji.blog/p/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AD%98/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
