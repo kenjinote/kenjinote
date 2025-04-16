@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 16 - [ケルクホフスの原理](http://kenji.blog/p/%E3%82%B1%E3%83%AB%E3%82%AF%E3%83%9B%E3%83%95%E3%82%B9%E3%81%AE%E5%8E%9F%E7%90%86/)
 - Apr 15 - [C++ から PowerShell を C++/CLI DLL 経由で実行する手順](http://kenji.blog/p/c-%E3%81%8B%E3%82%89-powershell-%E3%82%92-c-/cli-dll-%E7%B5%8C%E7%94%B1%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86/)
 - Apr 13 - [Windowsのライセンスの状態を確認するコマンド](http://kenji.blog/p/windows%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E7%8A%B6%E6%85%8B%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/)
 - Mar 01 - [iOS向けのffmpegパラメータ](http://kenji.blog/p/ios%E5%90%91%E3%81%91%E3%81%AEffmpeg%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF/)
@@ -14,7 +15,6 @@
 - Feb 01 - [ChatGPT APIをcurlから呼び出す](http://kenji.blog/p/chatgpt-api%E3%82%92curl%E3%81%8B%E3%82%89%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99/)
 - Dec 21 - [高配当株まとめ](http://kenji.blog/p/%E9%AB%98%E9%85%8D%E5%BD%93%E6%A0%AA%E3%81%BE%E3%81%A8%E3%82%81/)
 - Dec 07 - [目標](http://kenji.blog/p/%E7%9B%AE%E6%A8%99/)
-- Dec 07 - [About](http://kenji.blog/about/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
