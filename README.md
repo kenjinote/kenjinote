@@ -5,6 +5,9 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 17 - [FizzBuzz](http://kenji.blog/p/fizzbuzz/)
+- Apr 17 - [ハノイの塔](http://kenji.blog/p/%E3%83%8F%E3%83%8E%E3%82%A4%E3%81%AE%E5%A1%94/)
+- Apr 17 - [ソースコードの行数](http://kenji.blog/p/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%A1%8C%E6%95%B0/)
 - Apr 16 - [ケルクホフスの原理](http://kenji.blog/p/%E3%82%B1%E3%83%AB%E3%82%AF%E3%83%9B%E3%83%95%E3%82%B9%E3%81%AE%E5%8E%9F%E7%90%86/)
 - Apr 15 - [C++ から PowerShell を C++/CLI DLL 経由で実行する手順](http://kenji.blog/p/c-%E3%81%8B%E3%82%89-powershell-%E3%82%92-c-/cli-dll-%E7%B5%8C%E7%94%B1%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86/)
 - Apr 13 - [Windowsのライセンスの状態を確認するコマンド](http://kenji.blog/p/windows%E3%81%AE%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E7%8A%B6%E6%85%8B%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/)
@@ -12,9 +15,6 @@
 - Feb 27 - [Android(Google Pixel)端末の復元手順](http://kenji.blog/p/androidgoogle-pixel%E7%AB%AF%E6%9C%AB%E3%81%AE%E5%BE%A9%E5%85%83%E6%89%8B%E9%A0%86/)
 - Feb 26 - [Gmailをcurlから送る](http://kenji.blog/p/gmail%E3%82%92curl%E3%81%8B%E3%82%89%E9%80%81%E3%82%8B/)
 - Feb 24 - [Pythonコード片](http://kenji.blog/p/python%E3%82%B3%E3%83%BC%E3%83%89%E7%89%87/)
-- Feb 01 - [ChatGPT APIをcurlから呼び出す](http://kenji.blog/p/chatgpt-api%E3%82%92curl%E3%81%8B%E3%82%89%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99/)
-- Dec 21 - [高配当株まとめ](http://kenji.blog/p/%E9%AB%98%E9%85%8D%E5%BD%93%E6%A0%AA%E3%81%BE%E3%81%A8%E3%82%81/)
-- Dec 07 - [目標](http://kenji.blog/p/%E7%9B%AE%E6%A8%99/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
