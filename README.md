@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Apr 26 - [ローカル環境でのノーコードの歴史](http://kenji.blog/p/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AE%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2/)
 - Apr 17 - [FizzBuzz](http://kenji.blog/p/fizzbuzz/)
 - Apr 17 - [ハノイの塔](http://kenji.blog/p/%E3%83%8F%E3%83%8E%E3%82%A4%E3%81%AE%E5%A1%94/)
 - Apr 17 - [ソースコードの行数](http://kenji.blog/p/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%A1%8C%E6%95%B0/)
@@ -14,7 +15,6 @@
 - Mar 01 - [iOS向けのffmpegパラメータ](http://kenji.blog/p/ios%E5%90%91%E3%81%91%E3%81%AEffmpeg%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF/)
 - Feb 27 - [Android(Google Pixel)端末の復元手順](http://kenji.blog/p/androidgoogle-pixel%E7%AB%AF%E6%9C%AB%E3%81%AE%E5%BE%A9%E5%85%83%E6%89%8B%E9%A0%86/)
 - Feb 26 - [Gmailをcurlから送る](http://kenji.blog/p/gmail%E3%82%92curl%E3%81%8B%E3%82%89%E9%80%81%E3%82%8B/)
-- Feb 24 - [Pythonコード片](http://kenji.blog/p/python%E3%82%B3%E3%83%BC%E3%83%89%E7%89%87/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
