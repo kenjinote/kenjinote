@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 14 - [C++ から Microsoft Teams にメッセージを投稿する方法（WinHTTP + Graph API）](http://kenji.blog/p/c-%E3%81%8B%E3%82%89-microsoft-teams-%E3%81%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95winhttp--graph-api/)
+- Jul 14 - [入力フォームの必須マークについて](http://kenji.blog/p/%E5%85%A5%E5%8A%9B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E5%BF%85%E9%A0%88%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/)
 - Jul 13 - [Gemini CLI を Windows 環境にインストールする方法](http://kenji.blog/p/gemini-cli-%E3%82%92-windows-%E7%92%B0%E5%A2%83%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 - Jul 13 - [Microsoft MVP（2025-2026）を再受賞しました](http://kenji.blog/p/microsoft-mvp2025-2026%E3%82%92%E5%86%8D%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/)
 - Jul 12 - [Win32API + C++ でプログラムを作るメリットとデメリット](http://kenji.blog/p/win32api--c-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/)
@@ -13,8 +15,6 @@
 - Apr 26 - [ローカル環境でのノーコードの歴史](http://kenji.blog/p/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AE%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2/)
 - Apr 17 - [FizzBuzz](http://kenji.blog/p/fizzbuzz/)
 - Apr 17 - [ハノイの塔](http://kenji.blog/p/%E3%83%8F%E3%83%8E%E3%82%A4%E3%81%AE%E5%A1%94/)
-- Apr 17 - [ソースコードの行数](http://kenji.blog/p/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E8%A1%8C%E6%95%B0/)
-- Apr 16 - [ケルクホフスの原理](http://kenji.blog/p/%E3%82%B1%E3%83%AB%E3%82%AF%E3%83%9B%E3%83%95%E3%82%B9%E3%81%AE%E5%8E%9F%E7%90%86/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
