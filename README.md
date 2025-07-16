@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jul 16 - [Slack App + OAuth2 を使って Slack にメッセージを投稿する方法](http://kenji.blog/p/slack-app--oauth2-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-slack-%E3%81%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
+- Jul 16 - [C++（Win32 API + WinHTTP）でSlackにメッセージを投稿する方法【Webhook対応】](http://kenji.blog/p/c-win32-api--winhttp%E3%81%A7slack%E3%81%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95webhook%E5%AF%BE%E5%BF%9C/)
 - Jul 15 - [マーケットインとプロダクトアウト](http://kenji.blog/p/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%82%A4%E3%83%B3%E3%81%A8%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88/)
 - Jul 15 - [コラッツ予想](http://kenji.blog/p/%E3%82%B3%E3%83%A9%E3%83%83%E3%83%84%E4%BA%88%E6%83%B3/)
 - Jul 14 - [C++ から Microsoft Teams にメッセージを投稿する方法（WinHTTP + Graph API）](http://kenji.blog/p/c-%E3%81%8B%E3%82%89-microsoft-teams-%E3%81%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95winhttp--graph-api/)
@@ -13,8 +15,6 @@
 - Jul 13 - [Microsoft MVP（2025-2026）を再受賞しました](http://kenji.blog/p/microsoft-mvp2025-2026%E3%82%92%E5%86%8D%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/)
 - Jul 12 - [Win32API + C++ でプログラムを作るメリットとデメリット](http://kenji.blog/p/win32api--c-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E4%BD%9C%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/)
 - Jul 07 - [【初心者向け】vcpkgでlibcurl（OpenSSL対応）をVisual Studioに導入する手順](http://kenji.blog/p/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91vcpkg%E3%81%A7libcurlopenssl%E5%AF%BE%E5%BF%9C%E3%82%92visual-studio%E3%81%AB%E5%B0%8E%E5%85%A5%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86/)
-- May 26 - [陰謀論にはまらないために何が必要か](http://kenji.blog/p/%E9%99%B0%E8%AC%80%E8%AB%96%E3%81%AB%E3%81%AF%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AB%E4%BD%95%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%8B/)
-- Apr 26 - [ローカル環境でのノーコードの歴史](http://kenji.blog/p/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AE%E3%83%8E%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
