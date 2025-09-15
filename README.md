@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 15 - [本ブログのテーマ「AFFINGER6」について](https://hack.jp/640/)
 - Sep 11 - [WinMainから始めるWindowsアプリケーション開発入門](https://hack.jp/634/)
 - Aug 31 - [年賀状作成アプリ作成配信 VOL.1 (台本)](http://kenji.blog/p/%E5%B9%B4%E8%B3%80%E7%8A%B6%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90%E9%85%8D%E4%BF%A1-vol.1-%E5%8F%B0%E6%9C%AC/)
 - Aug 29 - [msixに自己証明書をつけてインストールできるようにする](http://kenji.blog/p/msix%E3%81%AB%E8%87%AA%E5%B7%B1%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B/)
@@ -14,7 +15,6 @@
 - Jul 20 - [AI開発の壁](http://kenji.blog/p/ai%E9%96%8B%E7%99%BA%E3%81%AE%E5%A3%81/)
 - Jul 19 - [C++ から Microsoft.Windows.AI を呼び出す方法](http://kenji.blog/p/c-%E3%81%8B%E3%82%89-microsoft.windows.ai-%E3%82%92%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%99%E6%96%B9%E6%B3%95/)
 - Jul 19 - [TinyLLaMA を C++ から呼び出せるようにする手順（llama.cpp使用）](http://kenji.blog/p/tinyllama-%E3%82%92-c-%E3%81%8B%E3%82%89%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%9B%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E6%89%8B%E9%A0%86llama.cpp%E4%BD%BF%E7%94%A8/)
-- Jul 16 - [Slack App + OAuth2 を使って Slack にメッセージを投稿する方法](http://kenji.blog/p/slack-app--oauth2-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6-slack-%E3%81%AB%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
