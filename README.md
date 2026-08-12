@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Aug 12 - [ちょっと懐かしいUIの爆速チャットサービスを作っていました](https://hack.jp/702/)
 - May 29 - [動画に簡単に字幕を付けられるアプリを作りました](https://hack.jp/668/)
 - Feb 15 - [【Windows完全ネイティブ】起動0秒でサクサク書ける！自作テキストエディタ「miu」を公開しました](https://hack.jp/661/)
 - Jan 24 - [反ワクチンの功罪](http://kenji.blog/p/%E5%8F%8D%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%81%AE%E5%8A%9F%E7%BD%AA/)
@@ -14,7 +15,6 @@
 - Sep 11 - [WinMainから始めるWindowsアプリケーション開発入門](https://hack.jp/634/)
 - Aug 31 - [年賀状作成アプリ作成配信 VOL.1 (台本)](http://kenji.blog/p/%E5%B9%B4%E8%B3%80%E7%8A%B6%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90%E9%85%8D%E4%BF%A1-vol.1-%E5%8F%B0%E6%9C%AC/)
 - Aug 29 - [msixに自己証明書をつけてインストールできるようにする](http://kenji.blog/p/msix%E3%81%AB%E8%87%AA%E5%B7%B1%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B/)
-- Jul 30 - [LogicPad 開発秘話](http://kenji.blog/p/logicpad-%E9%96%8B%E7%99%BA%E7%A7%98%E8%A9%B1/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
