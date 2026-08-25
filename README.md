@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjinote)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-analytics-incog.vercel.app/api?username=Kenjinote&theme=github_dark" alt="GitHub Analytics" />
+</div>
 
 
 ### Recent Blog Posts
