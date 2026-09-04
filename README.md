@@ -5,6 +5,8 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 04 - [一般数体篩法（GNFS）の真の数学的構造](http://kenji.blog/p/%E4%B8%80%E8%88%AC%E6%95%B0%E4%BD%93%E7%AF%A9%E6%B3%95gnfs%E3%81%AE%E7%9C%9F%E3%81%AE%E6%95%B0%E5%AD%A6%E7%9A%84%E6%A7%8B%E9%80%A0/)
+- Sep 04 - [インターネットの暗号を破る人類最強の数学「一般数体篩法（GNFS）」とは？](http://kenji.blog/p/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%9A%97%E5%8F%B7%E3%82%92%E7%A0%B4%E3%82%8B%E4%BA%BA%E9%A1%9E%E6%9C%80%E5%BC%B7%E3%81%AE%E6%95%B0%E5%AD%A6%E4%B8%80%E8%88%AC%E6%95%B0%E4%BD%93%E7%AF%A9%E6%B3%95gnfs%E3%81%A8%E3%81%AF/)
 - Aug 12 - [ちょっと懐かしいUIの爆速チャットサービスを作っていました](https://hack.jp/702/)
 - May 29 - [動画に簡単に字幕を付けられるアプリを作りました](https://hack.jp/668/)
 - Feb 15 - [【Windows完全ネイティブ】起動0秒でサクサク書ける！自作テキストエディタ「miu」を公開しました](https://hack.jp/661/)
@@ -13,8 +15,6 @@
 - Sep 27 - [Google One （Gemini）が解約できない時の対処方法](http://kenji.blog/p/google-one-gemini%E3%81%8C%E8%A7%A3%E7%B4%84%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%99%82%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
 - Sep 15 - [本ブログのテーマ「AFFINGER6」について](https://hack.jp/640/)
 - Sep 11 - [WinMainから始めるWindowsアプリケーション開発入門](https://hack.jp/634/)
-- Aug 31 - [年賀状作成アプリ作成配信 VOL.1 (台本)](http://kenji.blog/p/%E5%B9%B4%E8%B3%80%E7%8A%B6%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90%E9%85%8D%E4%BF%A1-vol.1-%E5%8F%B0%E6%9C%AC/)
-- Aug 29 - [msixに自己証明書をつけてインストールできるようにする](http://kenji.blog/p/msix%E3%81%AB%E8%87%AA%E5%B7%B1%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
