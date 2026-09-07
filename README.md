@@ -7,16 +7,16 @@
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 06 - [【数式で完全理解】古典最強「GNFS」はなぜ量子アルゴリズムに敗れるのか？素因数分解のパラダイムシフト](http://kenji.blog/p/gnfs-to-shors-algorithm-math-deepdive/)
+- Sep 05 - [【完全解剖】量子コンピュータとは何か？〜ゼロからわかる究極の計算原理〜](http://kenji.blog/p/quantum-computer-basics/)
+- Sep 05 - [【PQC】量子コンピュータ時代の次世代暗号「耐量子計算機暗号」の全貌](http://kenji.blog/p/post-quantum-cryptography/)
+- Sep 05 - [量子コンピュータは本当にRSA暗号を破壊するのか？〜ショアのアルゴリズムと現在の到達点〜](http://kenji.blog/p/shors-algorithm-and-rsa-breaking/)
+- Sep 05 - [【完全解剖】最強の暗号解読アルゴリズム「GNFS」をC++で実装して理解する](http://kenji.blog/p/gnfs-cpp-implementation/)
+- Sep 04 - [一般数体篩法（GNFS）の真の数学的構造](http://kenji.blog/p/%E4%B8%80%E8%88%AC%E6%95%B0%E4%BD%93%E7%AF%A9%E6%B3%95gnfs%E3%81%AE%E7%9C%9F%E3%81%AE%E6%95%B0%E5%AD%A6%E7%9A%84%E6%A7%8B%E9%80%A0/)
+- Sep 04 - [インターネットの暗号を破る人類最強の数学「一般数体篩法（GNFS）」とは？](http://kenji.blog/p/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E6%9A%97%E5%8F%B7%E3%82%92%E7%A0%B4%E3%82%8B%E4%BA%BA%E9%A1%9E%E6%9C%80%E5%BC%B7%E3%81%AE%E6%95%B0%E5%AD%A6%E4%B8%80%E8%88%AC%E6%95%B0%E4%BD%93%E7%AF%A9%E6%B3%95gnfs%E3%81%A8%E3%81%AF/)
 - Aug 12 - [ちょっと懐かしいUIの爆速チャットサービスを作っていました](https://hack.jp/702/)
 - May 29 - [動画に簡単に字幕を付けられるアプリを作りました](https://hack.jp/668/)
 - Feb 15 - [【Windows完全ネイティブ】起動0秒でサクサク書ける！自作テキストエディタ「miu」を公開しました](https://hack.jp/661/)
-- Jan 24 - [反ワクチンの功罪](http://kenji.blog/p/%E5%8F%8D%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%81%AE%E5%8A%9F%E7%BD%AA/)
-- Jan 23 - [「日本人ファースト」の虚像と実像：2026年の日本が直面する「共存」という名の防衛策](http://kenji.blog/p/%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%81%AE%E8%99%9A%E5%83%8F%E3%81%A8%E5%AE%9F%E5%83%8F2026%E5%B9%B4%E3%81%AE%E6%97%A5%E6%9C%AC%E3%81%8C%E7%9B%B4%E9%9D%A2%E3%81%99%E3%82%8B%E5%85%B1%E5%AD%98%E3%81%A8%E3%81%84%E3%81%86%E5%90%8D%E3%81%AE%E9%98%B2%E8%A1%9B%E7%AD%96/)
-- Sep 27 - [Google One （Gemini）が解約できない時の対処方法](http://kenji.blog/p/google-one-gemini%E3%81%8C%E8%A7%A3%E7%B4%84%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E6%99%82%E3%81%AE%E5%AF%BE%E5%87%A6%E6%96%B9%E6%B3%95/)
-- Sep 15 - [本ブログのテーマ「AFFINGER6」について](https://hack.jp/640/)
-- Sep 11 - [WinMainから始めるWindowsアプリケーション開発入門](https://hack.jp/634/)
-- Aug 31 - [年賀状作成アプリ作成配信 VOL.1 (台本)](http://kenji.blog/p/%E5%B9%B4%E8%B3%80%E7%8A%B6%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA%E4%BD%9C%E6%88%90%E9%85%8D%E4%BF%A1-vol.1-%E5%8F%B0%E6%9C%AC/)
-- Aug 29 - [msixに自己証明書をつけてインストールできるようにする](http://kenji.blog/p/msix%E3%81%AB%E8%87%AA%E5%B7%B1%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%82%92%E3%81%A4%E3%81%91%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
