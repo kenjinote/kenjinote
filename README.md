@@ -1,7 +1,9 @@
 ### Hi there 👋
+I like Win32API, Assembly, C++ and Cryptography. Exploring Quantum Computing.
+Microsoft MVP Since 2017 - 2026🐳.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjinote)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- 稼働中の別のStatsサービスに差し替え -->
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenjinote&theme=dracula)](https://github.com/kenjinote)
 
 ### Recent Blog Posts
 <!-- feed start -->
@@ -22,32 +24,21 @@
 
 <!-- SNS Links -->
 ### SNS Links
-[<img align="left" alt="hack.jp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
-[<img align="left" alt="kenji.blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
-[<img align="left" alt="kenjinote | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kenjinote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- align="left" を削除して回り込みを解除し、altテキストも正しい名前に修正 -->
+[<img alt="hack.jp" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+[<img alt="kenji.blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+[<img alt="kenjinote | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="kenjinote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br> <!-- 念のため改行を挟む -->
+
+### 🏆 Top Projects
+<!-- github-readme-statsがダウン中のため、通常のリンクテキストとして配置（GitHubの機能であるPinned Repositoriesと組み合わせるのがおすすめです） -->
+- [**cmdchat**](https://github.com/kenjinote/cmdchat) - コマンチEプロンプト (チャチE風)
+- [**miu**](https://github.com/kenjinote/miu) - A fast, minimalist text editor
+- [**PDFViewer**](https://github.com/kenjinote/PDFViewer) - PDF Viewer implemented in C++
 
 [website1]: https://hack.jp
 [website2]: https://kenji.blog
 [twitter]: https://twitter.com/kenjinote
 [linkedin]: https://www.linkedin.com/in/kenjinote/
-
-<!-- Top Projects -->
-### 🏆 Top Projects
-[![cmdchat](https://github-readme-stats.vercel.app/api/pin/?username=kenjinote&repo=cmdchat&theme=dracula)](https://github.com/kenjinote/cmdchat)
-[![miu](https://github-readme-stats.vercel.app/api/pin/?username=kenjinote&repo=miu&theme=dracula)](https://github.com/kenjinote/miu)
-
-<!--
-**kenjinote/kenjinote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
