@@ -33,8 +33,7 @@ Microsoft MVP Since 2017 - 2026🐳.
 <br> <!-- 念のため改行を挟む -->
 
 ### 🏆 Top Projects
-<!-- github-readme-statsがダウン中のため、通常のリンクテキストとして配置（GitHubの機能であるPinned Repositoriesと組み合わせるのがおすすめです） -->
-- [**cmdchat**](https://github.com/kenjinote/cmdchat) - コマンチEプロンプト (チャチE風)
+- [**cmdchat**](https://github.com/kenjinote/cmdchat) - Chat-style command prompt
 - [**miu**](https://github.com/kenjinote/miu) - A fast, minimalist text editor
 - [**PDFViewer**](https://github.com/kenjinote/PDFViewer) - PDF Viewer implemented in C++
 
