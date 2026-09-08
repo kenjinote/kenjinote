@@ -32,6 +32,11 @@
 [twitter]: https://twitter.com/kenjinote
 [linkedin]: https://www.linkedin.com/in/kenjinote/
 
+<!-- Top Projects -->
+### 🏆 Top Projects
+[![cmdchat](https://github-readme-stats.vercel.app/api/pin/?username=kenjinote&repo=cmdchat&theme=dracula)](https://github.com/kenjinote/cmdchat)
+[![miu](https://github-readme-stats.vercel.app/api/pin/?username=kenjinote&repo=miu&theme=dracula)](https://github.com/kenjinote/miu)
+
 <!--
 **kenjinote/kenjinote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
