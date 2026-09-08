@@ -30,7 +30,6 @@ Microsoft MVP Since 2017 - 2026🐳.
 [<img alt="kenjinote | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img alt="kenjinote | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br> <!-- 念のため改行を挟む -->
 
 ### 🏆 Top Projects
 - [**cmdchat**](https://github.com/kenjinote/cmdchat) - Chat-style command prompt
