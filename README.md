@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 10 - [「検査で陽性」＝「病気」とは限らない？：基準値の錯誤](http://kenji.blog/p/base-rate-fallacy/)
-- Sep 10 - [あなたの友達は、あなたよりも友達が多い：友情のパラドックス](http://kenji.blog/p/friendship-paradox/)
-- Sep 10 - [イギリスの海岸線はどれくらい長いか？：海岸線のパラドックス](http://kenji.blog/p/coastline-paradox/)
-- Sep 10 - [エメラルドは緑色か、それとも「グルー」色か？：グッドマンの新しい帰納の謎](http://kenji.blog/p/grue-paradox/)
-- Sep 10 - [ペンキで満たすことはできるが、表面を塗ることはできない？：ガブリエルのラッパ](http://kenji.blog/p/gabriels-horn/)
-- Sep 10 - [宇宙から帰ると弟が自分より年上に？：双子のパラドックス](http://kenji.blog/p/twin-paradox/)
-- Sep 10 - [言葉が自分自身を描写する時：グレリング＝ネルソンのパラドックス](http://kenji.blog/p/grelling-nelson-paradox/)
-- Sep 10 - [青いリンゴを見ると「カラスは黒い」ことの証明になる？：ヘンペルのカラス](http://kenji.blog/p/hempels-ravens/)
-- Sep 10 - [道路を新しく作ったら、なぜか渋滞が悪化した？：ブラスのパラドックス](http://kenji.blog/p/braess-paradox/)
-- Sep 10 - [リシャールのパラドックス：無限の小数と「対角線論法」が引き起こす矛盾](http://kenji.blog/p/richards-paradox/)
+- Sep 11 - [生成AIの著作権問題と2026年の法規制トレンドまとめ](http://kenji.blog/p/ai-copyright-law-2026-trends/)
+- Sep 11 - [【初心者向け】Transformerモデルの数学的構造を読み解く](http://kenji.blog/p/transformer-mathematical-structure/)
+- Sep 11 - [フェルマーの小定理を利用した暗号化の基礎と実装](http://kenji.blog/p/fermats-little-theorem-cryptography-implementation/)
+- Sep 11 - [CopilotとローカルAIの使い分けで開発効率を爆上げする](http://kenji.blog/p/hybrid-ai-development-workflow/)
+- Sep 11 - [格子暗号（Lattice-based cryptography）の数学的直観](http://kenji.blog/p/lattice-based-cryptography-math-intuition/)
+- Sep 11 - [Qiskitを使った量子プログラミング超入門](http://kenji.blog/p/qiskit-quantum-programming-intro/)
+- Sep 11 - [エンジニア向け：プロンプトエンジニアリングの基本と開発への応用](http://kenji.blog/p/prompt-engineering-for-engineers/)
+- Sep 11 - [AI画像生成ツール（Stable Diffusion等）のローカル環境構築マニュアル](http://kenji.blog/p/local-ai-image-generation-setup/)
+- Sep 11 - [ゼロ知識証明（ZKP）の仕組みと最新のWeb3・セキュリティへの応用](http://kenji.blog/p/zero-knowledge-proofs-zkp-web3-security/)
+- Sep 11 - [Microsoft.Windows.AIの最新API活用事例とサンプルコード](http://kenji.blog/p/microsoft-windows-ai-api-guide/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
