@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 11 - [生成AIの著作権問題と2026年の法規制トレンドまとめ](http://kenji.blog/p/ai-copyright-law-2026-trends/)
-- Sep 11 - [【初心者向け】Transformerモデルの数学的構造を読み解く](http://kenji.blog/p/transformer-mathematical-structure/)
-- Sep 11 - [フェルマーの小定理を利用した暗号化の基礎と実装](http://kenji.blog/p/fermats-little-theorem-cryptography-implementation/)
-- Sep 11 - [CopilotとローカルAIの使い分けで開発効率を爆上げする](http://kenji.blog/p/hybrid-ai-development-workflow/)
-- Sep 11 - [格子暗号（Lattice-based cryptography）の数学的直観](http://kenji.blog/p/lattice-based-cryptography-math-intuition/)
-- Sep 11 - [Qiskitを使った量子プログラミング超入門](http://kenji.blog/p/qiskit-quantum-programming-intro/)
-- Sep 11 - [エンジニア向け：プロンプトエンジニアリングの基本と開発への応用](http://kenji.blog/p/prompt-engineering-for-engineers/)
-- Sep 11 - [AI画像生成ツール（Stable Diffusion等）のローカル環境構築マニュアル](http://kenji.blog/p/local-ai-image-generation-setup/)
-- Sep 11 - [ゼロ知識証明（ZKP）の仕組みと最新のWeb3・セキュリティへの応用](http://kenji.blog/p/zero-knowledge-proofs-zkp-web3-security/)
-- Sep 11 - [Microsoft.Windows.AIの最新API活用事例とサンプルコード](http://kenji.blog/p/microsoft-windows-ai-api-guide/)
+- Sep 12 - [Dockerを使った再現可能なローカル開発環境の構築手順](http://kenji.blog/p/docker-reproducible-local-dev-environment/)
+- Sep 12 - [Windows Terminalを最強にカスタマイズする（テーマ・プロンプト設定）](http://kenji.blog/p/windows-terminal-ultimate-customization-guide/)
+- Sep 12 - [WSL2（Windows Subsystem for Linux）の究極の開発環境設定ガイド](http://kenji.blog/p/wsl2-ultimate-development-setup-guide/)
+- Sep 12 - [Windows 11向けMSIXパッケージの作り方と自己署名証明書の罠](http://kenji.blog/p/windows-11-msix-packaging-guide/)
+- Sep 12 - [テスト駆動開発（TDD）をC++プロジェクト（GoogleTest等）に導入する方法](http://kenji.blog/p/tdd-cpp-googletest-introduction/)
+- Sep 12 - [リファクタリングの極意：レガシーなC++コードを安全に改善する](http://kenji.blog/p/refactoring-legacy-cpp-code-safely/)
+- Sep 12 - [C++ / Rust開発者におすすめのVSCode拡張機能10選](http://kenji.blog/p/vscode-extensions-cpp-rust-developers/)
+- Sep 12 - [GitHub Actionsを使ったC++プロジェクトのCI/CDパイプライン構築](http://kenji.blog/p/github-actions-cpp-cicd-pipeline/)
+- Sep 12 - [Git初心者が陥りやすいミスと解決コマンド集（コンフリクト解消など）](http://kenji.blog/p/git-beginners-mistakes-and-solutions/)
+- Sep 12 - [PowerShellとC++の連携：システム管理の自動化テクニック](http://kenji.blog/p/powershell-cpp-system-automation/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
