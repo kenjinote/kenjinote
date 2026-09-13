@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 12 - [Dockerを使った再現可能なローカル開発環境の構築手順](http://kenji.blog/p/docker-reproducible-local-dev-environment/)
-- Sep 12 - [Windows Terminalを最強にカスタマイズする（テーマ・プロンプト設定）](http://kenji.blog/p/windows-terminal-ultimate-customization-guide/)
-- Sep 12 - [WSL2（Windows Subsystem for Linux）の究極の開発環境設定ガイド](http://kenji.blog/p/wsl2-ultimate-development-setup-guide/)
-- Sep 12 - [Windows 11向けMSIXパッケージの作り方と自己署名証明書の罠](http://kenji.blog/p/windows-11-msix-packaging-guide/)
-- Sep 12 - [テスト駆動開発（TDD）をC++プロジェクト（GoogleTest等）に導入する方法](http://kenji.blog/p/tdd-cpp-googletest-introduction/)
-- Sep 12 - [リファクタリングの極意：レガシーなC++コードを安全に改善する](http://kenji.blog/p/refactoring-legacy-cpp-code-safely/)
-- Sep 12 - [C++ / Rust開発者におすすめのVSCode拡張機能10選](http://kenji.blog/p/vscode-extensions-cpp-rust-developers/)
-- Sep 12 - [GitHub Actionsを使ったC++プロジェクトのCI/CDパイプライン構築](http://kenji.blog/p/github-actions-cpp-cicd-pipeline/)
-- Sep 12 - [Git初心者が陥りやすいミスと解決コマンド集（コンフリクト解消など）](http://kenji.blog/p/git-beginners-mistakes-and-solutions/)
-- Sep 12 - [PowerShellとC++の連携：システム管理の自動化テクニック](http://kenji.blog/p/powershell-cpp-system-automation/)
+- Sep 13 - [アローの不可能性定理：完璧な「民主主義（選挙）」は数学的に存在しない](http://kenji.blog/p/arrows-impossibility-theorem/)
+- Sep 13 - [ゲーデルの不完全性定理：「絶対に証明できない真理」の数学的証明](http://kenji.blog/p/godels-incompleteness-theorems/)
+- Sep 13 - [モンテカルロ法とラスベガス法：乱数を使った「最強」のアルゴリズム](http://kenji.blog/p/monte-carlo-and-las-vegas-algorithms/)
+- Sep 13 - [終末論法（Doomsday Argument）：確率論が導き出す「人類滅亡のタイムリミット」](http://kenji.blog/p/doomsday-argument/)
+- Sep 13 - [先祖のパラドックス：血統の崩壊（Pedigree Collapse）の数学と遺伝学](http://kenji.blog/p/pedigree-collapse/)
+- Sep 13 - [停止性問題（Halting Problem）：絶対に作れない最強のプログラム](http://kenji.blog/p/halting-problem/)
+- Sep 13 - [テセウスの船：すべて置き換えられた船は「元の船」と同じか？ ソフトウェア工学から読み解く同一性](http://kenji.blog/p/ship-of-theseus/)
+- Sep 13 - [ビザンチン将軍問題：裏切り者がいるネットワークでどう合意を得るか？](http://kenji.blog/p/byzantine-generals-problem/)
+- Sep 13 - [マクスウェルの悪魔：物理学の常識を破る「情報」のエネルギー](http://kenji.blog/p/maxwells-demon/)
+- Sep 13 - [ロバート・フロイドの循環検出法（ウサギとカメのアルゴリズム）](http://kenji.blog/p/floyds-cycle-finding/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
