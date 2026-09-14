@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 13 - [アローの不可能性定理：完璧な「民主主義（選挙）」は数学的に存在しない](http://kenji.blog/p/arrows-impossibility-theorem/)
-- Sep 13 - [ゲーデルの不完全性定理：「絶対に証明できない真理」の数学的証明](http://kenji.blog/p/godels-incompleteness-theorems/)
-- Sep 13 - [モンテカルロ法とラスベガス法：乱数を使った「最強」のアルゴリズム](http://kenji.blog/p/monte-carlo-and-las-vegas-algorithms/)
-- Sep 13 - [終末論法（Doomsday Argument）：確率論が導き出す「人類滅亡のタイムリミット」](http://kenji.blog/p/doomsday-argument/)
-- Sep 13 - [先祖のパラドックス：血統の崩壊（Pedigree Collapse）の数学と遺伝学](http://kenji.blog/p/pedigree-collapse/)
-- Sep 13 - [停止性問題（Halting Problem）：絶対に作れない最強のプログラム](http://kenji.blog/p/halting-problem/)
-- Sep 13 - [テセウスの船：すべて置き換えられた船は「元の船」と同じか？ ソフトウェア工学から読み解く同一性](http://kenji.blog/p/ship-of-theseus/)
-- Sep 13 - [ビザンチン将軍問題：裏切り者がいるネットワークでどう合意を得るか？](http://kenji.blog/p/byzantine-generals-problem/)
-- Sep 13 - [マクスウェルの悪魔：物理学の常識を破る「情報」のエネルギー](http://kenji.blog/p/maxwells-demon/)
-- Sep 13 - [ロバート・フロイドの循環検出法（ウサギとカメのアルゴリズム）](http://kenji.blog/p/floyds-cycle-finding/)
+- Sep 14 - [カオス理論とバタフライ効果（Chaos Theory） - 初期値のわずかな違いが未来を予測不能にする仕組み](http://kenji.blog/p/chaos-theory/)
+- Sep 14 - [ジップの法則（Zipf's Law） - 単語の出現頻度から都市の人口までを支配する「べき乗則」](http://kenji.blog/p/zipfs-law/)
+- Sep 14 - [ビュフォンの針（Buffon's Needle） - 針を落とすだけで円周率が求まる確率論の古典](http://kenji.blog/p/buffons-needle/)
+- Sep 14 - [ラマヌジャンの和（Ramanujan Summation） - 「1+2+3+... = -1/12」となる直感に反する数学的解釈](http://kenji.blog/p/ramanujan-summation/)
+- Sep 14 - [中心極限定理（Central Limit Theorem） - どんなデータも足し合わせると正規分布に近づく奇跡](http://kenji.blog/p/central-limit-theorem/)
+- Sep 14 - [選択公理とツォルンの補題 - 数学の基礎を揺るがした「選択」の概念](http://kenji.blog/p/axiom-of-choice-and-zorns-lemma/)
+- Sep 14 - [秘書問題 / 最適停止問題（Secretary Problem） - 最も優秀な人を採用するための「1/eの法則」](http://kenji.blog/p/secretary-problem/)
+- Sep 14 - [ケーニヒスベルクの七つの橋 - グラフ理論とトポロジーの起源](http://kenji.blog/p/seven-bridges-of-konigsberg/)
+- Sep 14 - [カントールの対角線論法（Cantor's Diagonal Argument） - 実数が有理数より「圧倒的に多い」ことの証明](http://kenji.blog/p/cantors-diagonal-argument/)
+- Sep 14 - [ヤン＝ミルズ方程式と質量ギャップ問題 - 素粒子物理学の「標準模型」の数学的基礎](http://kenji.blog/p/yang-mills-mass-gap/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
