@@ -7,6 +7,7 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 15 - [クーポンコレクター問題：全種類そろえるには何回必要？最後の1枚が出ない理由を数式とグラフで解説](http://kenji.blog/p/coupon-collector-problem/)
 - Sep 14 - [カオス理論とバタフライ効果（Chaos Theory） - 初期値のわずかな違いが未来を予測不能にする仕組み](http://kenji.blog/p/chaos-theory/)
 - Sep 14 - [ジップの法則（Zipf's Law） - 単語の出現頻度から都市の人口までを支配する「べき乗則」](http://kenji.blog/p/zipfs-law/)
 - Sep 14 - [ビュフォンの針（Buffon's Needle） - 針を落とすだけで円周率が求まる確率論の古典](http://kenji.blog/p/buffons-needle/)
@@ -16,7 +17,6 @@ Microsoft MVP Since 2017 - 2026🐳.
 - Sep 14 - [秘書問題 / 最適停止問題（Secretary Problem） - 最も優秀な人を採用するための「1/eの法則」](http://kenji.blog/p/secretary-problem/)
 - Sep 14 - [ケーニヒスベルクの七つの橋 - グラフ理論とトポロジーの起源](http://kenji.blog/p/seven-bridges-of-konigsberg/)
 - Sep 14 - [カントールの対角線論法（Cantor's Diagonal Argument） - 実数が有理数より「圧倒的に多い」ことの証明](http://kenji.blog/p/cantors-diagonal-argument/)
-- Sep 14 - [ヤン＝ミルズ方程式と質量ギャップ問題 - 素粒子物理学の「標準模型」の数学的基礎](http://kenji.blog/p/yang-mills-mass-gap/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
