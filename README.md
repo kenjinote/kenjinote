@@ -7,6 +7,7 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 18 - [プライバシーポリシー](http://kenji.blog/privacy/)
 - Sep 16 - [ラムゼー理論：無秩序の中にも必ず規則が現れる——6人の人間関係を色分けで証明](http://kenji.blog/p/ramsey-theory/)
 - Sep 16 - [安定結婚問題：全員の希望をどう組み合わせるか？ゲール＝シャプレーのアルゴリズムを図と数式で解説](http://kenji.blog/p/stable-marriage-problem/)
 - Sep 15 - [クーポンコレクター問題：全種類そろえるには何回必要？最後の1枚が出ない理由を数式とグラフで解説](http://kenji.blog/p/coupon-collector-problem/)
@@ -16,7 +17,6 @@ Microsoft MVP Since 2017 - 2026🐳.
 - Sep 14 - [ラマヌジャンの和（Ramanujan Summation） - 「1+2+3+... = -1/12」となる直感に反する数学的解釈](http://kenji.blog/p/ramanujan-summation/)
 - Sep 14 - [中心極限定理（Central Limit Theorem） - どんなデータも足し合わせると正規分布に近づく奇跡](http://kenji.blog/p/central-limit-theorem/)
 - Sep 14 - [選択公理とツォルンの補題 - 数学の基礎を揺るがした「選択」の概念](http://kenji.blog/p/axiom-of-choice-and-zorns-lemma/)
-- Sep 14 - [秘書問題 / 最適停止問題（Secretary Problem） - 最も優秀な人を採用するための「1/eの法則」](http://kenji.blog/p/secretary-problem/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
