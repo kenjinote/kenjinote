@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Sep 20 - [バーンサイドの補題：回すと同じ模様をどう数える？](http://kenji.blog/p/burnsides-lemma/)
+- Sep 20 - [カタラン数：括弧の並べ方と木構造が同じ数になる理由](http://kenji.blog/p/catalan-numbers/)
+- Sep 20 - [スペルナーの補題：三角形の色塗りから存在証明へ](http://kenji.blog/p/sperners-lemma/)
+- Sep 20 - [ハムサンドイッチの定理：3種類の食材を一刀で半分にできる？](http://kenji.blog/p/ham-sandwich-theorem/)
+- Sep 20 - [ピックの定理：格子点を数えるだけで面積がわかる](http://kenji.blog/p/picks-theorem/)
+- Sep 20 - [最適輸送問題：砂山を最小の手間で移す数学](http://kenji.blog/p/optimal-transport-problem/)
+- Sep 20 - [母関数：数列を「関数」にすると何がうれしい？](http://kenji.blog/p/generating-functions/)
 - Sep 18 - [プライバシーポリシー](http://kenji.blog/privacy/)
 - Sep 16 - [ラムゼー理論：無秩序の中にも必ず規則が現れる——6人の人間関係を色分けで証明](http://kenji.blog/p/ramsey-theory/)
 - Sep 16 - [安定結婚問題：全員の希望をどう組み合わせるか？ゲール＝シャプレーのアルゴリズムを図と数式で解説](http://kenji.blog/p/stable-marriage-problem/)
-- Sep 15 - [クーポンコレクター問題：全種類そろえるには何回必要？最後の1枚が出ない理由を数式とグラフで解説](http://kenji.blog/p/coupon-collector-problem/)
-- Sep 14 - [カオス理論とバタフライ効果（Chaos Theory） - 初期値のわずかな違いが未来を予測不能にする仕組み](http://kenji.blog/p/chaos-theory/)
-- Sep 14 - [ジップの法則（Zipf's Law） - 単語の出現頻度から都市の人口までを支配する「べき乗則」](http://kenji.blog/p/zipfs-law/)
-- Sep 14 - [ビュフォンの針（Buffon's Needle） - 針を落とすだけで円周率が求まる確率論の古典](http://kenji.blog/p/buffons-needle/)
-- Sep 14 - [ラマヌジャンの和（Ramanujan Summation） - 「1+2+3+... = -1/12」となる直感に反する数学的解釈](http://kenji.blog/p/ramanujan-summation/)
-- Sep 14 - [中心極限定理（Central Limit Theorem） - どんなデータも足し合わせると正規分布に近づく奇跡](http://kenji.blog/p/central-limit-theorem/)
-- Sep 14 - [選択公理とツォルンの補題 - 数学の基礎を揺るがした「選択」の概念](http://kenji.blog/p/axiom-of-choice-and-zorns-lemma/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
