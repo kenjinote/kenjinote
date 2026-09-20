@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 20 - [バーンサイドの補題：回すと同じ模様をどう数える？](http://kenji.blog/p/burnsides-lemma/)
-- Sep 20 - [カタラン数：括弧の並べ方と木構造が同じ数になる理由](http://kenji.blog/p/catalan-numbers/)
-- Sep 20 - [スペルナーの補題：三角形の色塗りから存在証明へ](http://kenji.blog/p/sperners-lemma/)
-- Sep 20 - [ハムサンドイッチの定理：3種類の食材を一刀で半分にできる？](http://kenji.blog/p/ham-sandwich-theorem/)
-- Sep 20 - [ピックの定理：格子点を数えるだけで面積がわかる](http://kenji.blog/p/picks-theorem/)
-- Sep 20 - [最適輸送問題：砂山を最小の手間で移す数学](http://kenji.blog/p/optimal-transport-problem/)
-- Sep 20 - [母関数：数列を「関数」にすると何がうれしい？](http://kenji.blog/p/generating-functions/)
-- Sep 18 - [プライバシーポリシー](http://kenji.blog/privacy/)
-- Sep 16 - [ラムゼー理論：無秩序の中にも必ず規則が現れる——6人の人間関係を色分けで証明](http://kenji.blog/p/ramsey-theory/)
-- Sep 16 - [安定結婚問題：全員の希望をどう組み合わせるか？ゲール＝シャプレーのアルゴリズムを図と数式で解説](http://kenji.blog/p/stable-marriage-problem/)
+- Sep 21 - [状態管理の歴史と未来: ReduxからSignals, Reactivityの進化](http://kenji.blog/p/state-management-history-future/)
+- Sep 20 - [イベント駆動アーキテクチャと非同期処理の深層：Event Loop、Actorモデル、CQRS](http://kenji.blog/p/event-driven-architecture-async/)
+- Sep 20 - [デザインパターン再考：GoFは時代遅れか？現代のベストプラクティス](http://kenji.blog/p/design-patterns-modern-practices/)
+- Sep 20 - [メモリ管理とガベージコレクション: C、Java、Rustから学ぶメモリの真実](http://kenji.blog/p/memory-management-garbage-collection/)
+- Sep 20 - [オブジェクト指向 vs 関数型 vs データ指向：パラダイムの限界と融合](http://kenji.blog/p/oop-vs-fp-vs-dop/)
+- Sep 20 - [B木とデータベースインデックスの理論（なぜDBはB-Treeを選ぶのか？）](http://kenji.blog/p/b-tree-database-index-theory/)
+- Sep 20 - [グラフ理論とダイクストラ法・A*アルゴリズム：経路探索の数学的基盤と実装](http://kenji.blog/p/graph-theory-dijkstra-a-star/)
+- Sep 20 - [ビザンチン将軍問題とコンセンサスアルゴリズムの深淵：Paxos, Raft, BFTの仕組み](http://kenji.blog/p/byzantine-generals-problem-consensus/)
+- Sep 20 - [情報理論とシャノンのエントロピー：データ圧縮と通信の限界を探る](http://kenji.blog/p/information-theory-shannon-entropy/)
+- Sep 20 - [「P vs NP問題」の全貌と計算複雑性クラス：ミレニアム懸賞問題の解説とプログラミング的意義](http://kenji.blog/p/p-vs-np-problem/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
