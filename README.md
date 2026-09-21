@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 21 - [状態管理の歴史と未来: ReduxからSignals, Reactivityの進化](http://kenji.blog/p/state-management-history-future/)
-- Sep 20 - [イベント駆動アーキテクチャと非同期処理の深層：Event Loop、Actorモデル、CQRS](http://kenji.blog/p/event-driven-architecture-async/)
-- Sep 20 - [デザインパターン再考：GoFは時代遅れか？現代のベストプラクティス](http://kenji.blog/p/design-patterns-modern-practices/)
-- Sep 20 - [メモリ管理とガベージコレクション: C、Java、Rustから学ぶメモリの真実](http://kenji.blog/p/memory-management-garbage-collection/)
-- Sep 20 - [オブジェクト指向 vs 関数型 vs データ指向：パラダイムの限界と融合](http://kenji.blog/p/oop-vs-fp-vs-dop/)
-- Sep 20 - [B木とデータベースインデックスの理論（なぜDBはB-Treeを選ぶのか？）](http://kenji.blog/p/b-tree-database-index-theory/)
-- Sep 20 - [グラフ理論とダイクストラ法・A*アルゴリズム：経路探索の数学的基盤と実装](http://kenji.blog/p/graph-theory-dijkstra-a-star/)
-- Sep 20 - [ビザンチン将軍問題とコンセンサスアルゴリズムの深淵：Paxos, Raft, BFTの仕組み](http://kenji.blog/p/byzantine-generals-problem-consensus/)
-- Sep 20 - [情報理論とシャノンのエントロピー：データ圧縮と通信の限界を探る](http://kenji.blog/p/information-theory-shannon-entropy/)
-- Sep 20 - [「P vs NP問題」の全貌と計算複雑性クラス：ミレニアム懸賞問題の解説とプログラミング的意義](http://kenji.blog/p/p-vs-np-problem/)
+- Sep 21 - [CAP定理と分散システム（一貫性、可用性、分断耐性のトレードオフ）](http://kenji.blog/p/cap-theorem-distributed-systems-tradeoff/)
+- Sep 21 - [GraphQL vs REST API（オーバーフェッチの解消と型安全）](http://kenji.blog/p/graphql-vs-rest-api-overfetching-type-safety/)
+- Sep 21 - [NoSQLデータベースの選び方（KVS, ドキュメント, グラフ, ワイドカラム）](http://kenji.blog/p/nosql-database-selection-kvs-document-graph-wide-column/)
+- Sep 21 - [OAuth 2.0とOIDC (OpenID Connect)の完全解剖（認可と認証の違い）](http://kenji.blog/p/oauth2-oidc-authentication-authorization-difference/)
+- Sep 21 - [PWA (Progressive Web Apps) の可能性と実装（Service Workerの力）](http://kenji.blog/p/pwa-progressive-web-apps-service-worker/)
+- Sep 21 - [RDBMSのトランザクションとACID特性（分離レベルとロック）](http://kenji.blog/p/rdbms-transaction-acid-isolation-level-lock/)
+- Sep 21 - [Web Vitalsとフロントエンドパフォーマンス最適化（LCP, FID, CLSの改善）](http://kenji.blog/p/web-vitals-frontend-performance-optimization-lcp-fid-cls/)
+- Sep 21 - [Webアプリケーションの脆弱性と対策（OWASP Top 10とセキュアコーディング）](http://kenji.blog/p/web-application-vulnerability-owasp-top-10/)
+- Sep 21 - [イベント駆動アーキテクチャとメッセージキュー（Kafka, RabbitMQ）](http://kenji.blog/p/event-driven-architecture-message-queue-kafka-rabbitmq/)
+- Sep 21 - [ゼロトラスト・ネットワークアーキテクチャ（境界防御からの脱却）](http://kenji.blog/p/zero-trust-network-architecture-beyond-corp/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
