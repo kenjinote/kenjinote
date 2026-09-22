@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 21 - [CAP定理と分散システム（一貫性、可用性、分断耐性のトレードオフ）](http://kenji.blog/p/cap-theorem-distributed-systems-tradeoff/)
-- Sep 21 - [GraphQL vs REST API（オーバーフェッチの解消と型安全）](http://kenji.blog/p/graphql-vs-rest-api-overfetching-type-safety/)
-- Sep 21 - [NoSQLデータベースの選び方（KVS, ドキュメント, グラフ, ワイドカラム）](http://kenji.blog/p/nosql-database-selection-kvs-document-graph-wide-column/)
-- Sep 21 - [OAuth 2.0とOIDC (OpenID Connect)の完全解剖（認可と認証の違い）](http://kenji.blog/p/oauth2-oidc-authentication-authorization-difference/)
-- Sep 21 - [PWA (Progressive Web Apps) の可能性と実装（Service Workerの力）](http://kenji.blog/p/pwa-progressive-web-apps-service-worker/)
-- Sep 21 - [RDBMSのトランザクションとACID特性（分離レベルとロック）](http://kenji.blog/p/rdbms-transaction-acid-isolation-level-lock/)
-- Sep 21 - [Web Vitalsとフロントエンドパフォーマンス最適化（LCP, FID, CLSの改善）](http://kenji.blog/p/web-vitals-frontend-performance-optimization-lcp-fid-cls/)
-- Sep 21 - [Webアプリケーションの脆弱性と対策（OWASP Top 10とセキュアコーディング）](http://kenji.blog/p/web-application-vulnerability-owasp-top-10/)
-- Sep 21 - [イベント駆動アーキテクチャとメッセージキュー（Kafka, RabbitMQ）](http://kenji.blog/p/event-driven-architecture-message-queue-kafka-rabbitmq/)
-- Sep 21 - [ゼロトラスト・ネットワークアーキテクチャ（境界防御からの脱却）](http://kenji.blog/p/zero-trust-network-architecture-beyond-corp/)
+- Sep 22 - [Appleの歴史: ガレージから時価総額世界一への軌跡と革新のDNA](http://kenji.blog/p/history-of-apple/)
+- Sep 22 - [OSの歴史: Linuxの誕生とオープンソース革命](http://kenji.blog/p/history-of-linux/)
+- Sep 22 - [OSの歴史: macOSの系譜 (NeXTSTEPからUNIXの血統へ)](http://kenji.blog/p/history-of-macos/)
+- Sep 22 - [OSの歴史: Windowsの系譜 (MS-DOSからNTアーキテクチャの完成)](http://kenji.blog/p/history-of-windows/)
+- Sep 22 - [物理の不思議: LEDの仕組み - なぜ光るのか？青色LED開発の奇跡](http://kenji.blog/p/physics-led-mechanism/)
+- Sep 22 - [物理の不思議: ドップラー効果 - 救急車のサイレンから宇宙の膨張まで](http://kenji.blog/p/physics-doppler-effect/)
+- Sep 22 - [IBMの歴史: パンチカードからメインフレーム、そして量子コンピュータへ](http://kenji.blog/p/history-of-ibm/)
+- Sep 22 - [NECの歴史: 日本のコンピュータ黎明期を支えたPC-98と通信技術の歩み](http://kenji.blog/p/history-of-nec/)
+- Sep 22 - [NVIDIA（ジフォース）の歴史: 3DグラフィックスからAIの心臓部(GPU)へと大化けした軌跡](http://kenji.blog/p/history-of-nvidia/)
+- Sep 22 - [Panasonicの歴史: 家電の王様からB2B・車載バッテリー事業への華麗なる転換](http://kenji.blog/p/history-of-panasonic/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
