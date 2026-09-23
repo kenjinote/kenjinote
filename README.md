@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 22 - [Appleの歴史: ガレージから時価総額世界一への軌跡と革新のDNA](http://kenji.blog/p/history-of-apple/)
-- Sep 22 - [OSの歴史: Linuxの誕生とオープンソース革命](http://kenji.blog/p/history-of-linux/)
-- Sep 22 - [OSの歴史: macOSの系譜 (NeXTSTEPからUNIXの血統へ)](http://kenji.blog/p/history-of-macos/)
-- Sep 22 - [OSの歴史: Windowsの系譜 (MS-DOSからNTアーキテクチャの完成)](http://kenji.blog/p/history-of-windows/)
-- Sep 22 - [物理の不思議: LEDの仕組み - なぜ光るのか？青色LED開発の奇跡](http://kenji.blog/p/physics-led-mechanism/)
-- Sep 22 - [物理の不思議: ドップラー効果 - 救急車のサイレンから宇宙の膨張まで](http://kenji.blog/p/physics-doppler-effect/)
-- Sep 22 - [IBMの歴史: パンチカードからメインフレーム、そして量子コンピュータへ](http://kenji.blog/p/history-of-ibm/)
-- Sep 22 - [NECの歴史: 日本のコンピュータ黎明期を支えたPC-98と通信技術の歩み](http://kenji.blog/p/history-of-nec/)
-- Sep 22 - [NVIDIA（ジフォース）の歴史: 3DグラフィックスからAIの心臓部(GPU)へと大化けした軌跡](http://kenji.blog/p/history-of-nvidia/)
-- Sep 22 - [Panasonicの歴史: 家電の王様からB2B・車載バッテリー事業への華麗なる転換](http://kenji.blog/p/history-of-panasonic/)
+- Sep 23 - [スティーブン・コヴィー：『7つの習慣』で世界を変えたリーダーシップの巨匠](http://kenji.blog/p/biography-stephen-covey/)
+- Sep 23 - [人間関係の原則を築いた男：デール・カーネギーの生涯と哲学](http://kenji.blog/p/biography-dale-carnegie/)
+- Sep 23 - [「イングランド銀行を潰した男」ジョージ・ソロス：哲学する投資家が生きた波乱の軌跡](http://kenji.blog/p/biography-george-soros/)
+- Sep 23 - [「オマハの賢人」ウォーレン・バフェット：長期投資と複利の哲学を体現する投資家](http://kenji.blog/p/biography-warren-buffett/)
+- Sep 23 - [ココ・シャネル：女性を解放した革命児の生涯と哲学](http://kenji.blog/p/biography-coco-chanel/)
+- Sep 23 - [ジョン・D・ロックフェラー：近代資本主義を形作った石油王の生涯と哲学](http://kenji.blog/p/biography-john-d-rockefeller/)
+- Sep 23 - [現代マネジメントの父、ピーター・ドラッカーの生涯と哲学](http://kenji.blog/p/biography-peter-drucker/)
+- Sep 23 - [鋼鉄王アンドリュー・カーネギー：富と慈善のパラドックスを体現した男](http://kenji.blog/p/biography-andrew-carnegie/)
+- Sep 23 - [日本資本主義の父・渋沢栄一：道徳と経済の合一を目指した生涯](http://kenji.blog/p/biography-eiichi-shibusawa/)
+- Sep 23 - [自動車王ヘンリー・フォード：大衆消費社会の幕開けと「フォード生産方式」の革新](http://kenji.blog/p/biography-henry-ford/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
