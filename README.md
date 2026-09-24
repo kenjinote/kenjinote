@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 23 - [スティーブン・コヴィー：『7つの習慣』で世界を変えたリーダーシップの巨匠](http://kenji.blog/p/biography-stephen-covey/)
-- Sep 23 - [人間関係の原則を築いた男：デール・カーネギーの生涯と哲学](http://kenji.blog/p/biography-dale-carnegie/)
-- Sep 23 - [「イングランド銀行を潰した男」ジョージ・ソロス：哲学する投資家が生きた波乱の軌跡](http://kenji.blog/p/biography-george-soros/)
-- Sep 23 - [「オマハの賢人」ウォーレン・バフェット：長期投資と複利の哲学を体現する投資家](http://kenji.blog/p/biography-warren-buffett/)
-- Sep 23 - [ココ・シャネル：女性を解放した革命児の生涯と哲学](http://kenji.blog/p/biography-coco-chanel/)
-- Sep 23 - [ジョン・D・ロックフェラー：近代資本主義を形作った石油王の生涯と哲学](http://kenji.blog/p/biography-john-d-rockefeller/)
-- Sep 23 - [現代マネジメントの父、ピーター・ドラッカーの生涯と哲学](http://kenji.blog/p/biography-peter-drucker/)
-- Sep 23 - [鋼鉄王アンドリュー・カーネギー：富と慈善のパラドックスを体現した男](http://kenji.blog/p/biography-andrew-carnegie/)
-- Sep 23 - [日本資本主義の父・渋沢栄一：道徳と経済の合一を目指した生涯](http://kenji.blog/p/biography-eiichi-shibusawa/)
-- Sep 23 - [自動車王ヘンリー・フォード：大衆消費社会の幕開けと「フォード生産方式」の革新](http://kenji.blog/p/biography-henry-ford/)
+- Sep 24 - [3Dグラフィックスの標準規格はいかにして生まれたか？：OpenGLの歴史とクロスプラットフォームの基礎](http://kenji.blog/p/opengl-basics-and-history/)
+- Sep 24 - [アインシュタイン・タイルとペンローズ・タイル：非周期幾何学タイル張り問題と結晶学の交差点](http://kenji.blog/p/aperiodic-tiling-problem/)
+- Sep 24 - [ピコピコ音からフォトリアルな仮想世界へ：家庭用ゲーム機50年の進化史と技術革新](http://kenji.blog/p/history-of-video-game-consoles/)
+- Sep 24 - [プログラマーの最強の武器はどう進化したか？：統合開発環境「Visual Studio」の歴史](http://kenji.blog/p/history-of-visual-studio/)
+- Sep 24 - [ミリからメガ、そしてクエタへ：SI接頭語（大きさの単位）の定義と宇宙規模のスケール感](http://kenji.blog/p/si-prefixes-from-milli-to-mega/)
+- Sep 24 - [メルカトル図法からイコールアース図法まで：世界地図の投影法と人類の空間認知の歴史](http://kenji.blog/p/history-of-map-projections/)
+- Sep 24 - [角を曲がれる最大のソファは？：数学者を悩ませ続ける未解決幾何学「ソファ問題」の深淵](http://kenji.blog/p/moving-sofa-problem/)
+- Sep 24 - [江戸時代の天才たちが挑んだ数学ミステリー：日本独自の数学「和算」と算額の歴史](http://kenji.blog/p/history-of-wasan-japanese-mathematics/)
+- Sep 24 - [世界の常識を覆した生命の系譜：ダーウィンの進化論「種の起源」と自然選択説のすべて](http://kenji.blog/p/darwins-theory-of-evolution/)
+- Sep 24 - [日時計から光格子時計まで：人類はいかにして「時間」を正確に測り続けてきたのか](http://kenji.blog/p/history-of-timekeeping-technology/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
