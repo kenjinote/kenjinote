@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 24 - [3Dグラフィックスの標準規格はいかにして生まれたか？：OpenGLの歴史とクロスプラットフォームの基礎](http://kenji.blog/p/opengl-basics-and-history/)
-- Sep 24 - [アインシュタイン・タイルとペンローズ・タイル：非周期幾何学タイル張り問題と結晶学の交差点](http://kenji.blog/p/aperiodic-tiling-problem/)
-- Sep 24 - [ピコピコ音からフォトリアルな仮想世界へ：家庭用ゲーム機50年の進化史と技術革新](http://kenji.blog/p/history-of-video-game-consoles/)
-- Sep 24 - [プログラマーの最強の武器はどう進化したか？：統合開発環境「Visual Studio」の歴史](http://kenji.blog/p/history-of-visual-studio/)
-- Sep 24 - [ミリからメガ、そしてクエタへ：SI接頭語（大きさの単位）の定義と宇宙規模のスケール感](http://kenji.blog/p/si-prefixes-from-milli-to-mega/)
-- Sep 24 - [メルカトル図法からイコールアース図法まで：世界地図の投影法と人類の空間認知の歴史](http://kenji.blog/p/history-of-map-projections/)
-- Sep 24 - [角を曲がれる最大のソファは？：数学者を悩ませ続ける未解決幾何学「ソファ問題」の深淵](http://kenji.blog/p/moving-sofa-problem/)
-- Sep 24 - [江戸時代の天才たちが挑んだ数学ミステリー：日本独自の数学「和算」と算額の歴史](http://kenji.blog/p/history-of-wasan-japanese-mathematics/)
-- Sep 24 - [世界の常識を覆した生命の系譜：ダーウィンの進化論「種の起源」と自然選択説のすべて](http://kenji.blog/p/darwins-theory-of-evolution/)
-- Sep 24 - [日時計から光格子時計まで：人類はいかにして「時間」を正確に測り続けてきたのか](http://kenji.blog/p/history-of-timekeeping-technology/)
+- Sep 25 - [バーバラ・リスコフ：抽象データ型と分散システムを築いた計算機科学者](http://kenji.blog/p/biography-barbara-liskov/)
+- Sep 25 - [グッドハートの法則：指標を目標にすると、なぜ指標が壊れるのか](http://kenji.blog/p/goodharts-law-metrics/)
+- Sep 25 - [レスリー・ランポート：分散システムに「時間」と「合意」を与えた人物](http://kenji.blog/p/biography-leslie-lamport/)
+- Sep 25 - [ティム・バーナーズ＝リー：Webを特許で囲わなかった発明者](http://kenji.blog/p/biography-tim-berners-lee/)
+- Sep 25 - [iモードの歴史：日本が先に実現していたモバイルインターネット](http://kenji.blog/p/history-of-imode-mobile-internet/)
+- Sep 25 - [Xerox PARC：未来のコンピュータを発明しながら市場を逃した研究所](http://kenji.blog/p/history-of-xerox-parc/)
+- Sep 25 - [トランジスタの誕生：ベル研究所の小さな部品が世界を変えるまで](http://kenji.blog/p/history-of-transistor-invention/)
+- Sep 25 - [ARMとRISC-V：命令セットをめぐる半導体産業の新しい競争](http://kenji.blog/p/arm-vs-risc-v-history/)
+- Sep 25 - [JPEGと画像圧縮の歴史：写真から何を捨てれば人間に気付かれないか](http://kenji.blog/p/history-of-jpeg-compression/)
+- Sep 25 - [PDFの歴史：紙をそのままデジタル世界へ持ち込んだ規格](http://kenji.blog/p/history-of-pdf-format/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
