@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 25 - [バーバラ・リスコフ：抽象データ型と分散システムを築いた計算機科学者](http://kenji.blog/p/biography-barbara-liskov/)
-- Sep 25 - [グッドハートの法則：指標を目標にすると、なぜ指標が壊れるのか](http://kenji.blog/p/goodharts-law-metrics/)
-- Sep 25 - [レスリー・ランポート：分散システムに「時間」と「合意」を与えた人物](http://kenji.blog/p/biography-leslie-lamport/)
-- Sep 25 - [ティム・バーナーズ＝リー：Webを特許で囲わなかった発明者](http://kenji.blog/p/biography-tim-berners-lee/)
-- Sep 25 - [iモードの歴史：日本が先に実現していたモバイルインターネット](http://kenji.blog/p/history-of-imode-mobile-internet/)
-- Sep 25 - [Xerox PARC：未来のコンピュータを発明しながら市場を逃した研究所](http://kenji.blog/p/history-of-xerox-parc/)
-- Sep 25 - [トランジスタの誕生：ベル研究所の小さな部品が世界を変えるまで](http://kenji.blog/p/history-of-transistor-invention/)
-- Sep 25 - [ARMとRISC-V：命令セットをめぐる半導体産業の新しい競争](http://kenji.blog/p/arm-vs-risc-v-history/)
-- Sep 25 - [JPEGと画像圧縮の歴史：写真から何を捨てれば人間に気付かれないか](http://kenji.blog/p/history-of-jpeg-compression/)
-- Sep 25 - [PDFの歴史：紙をそのままデジタル世界へ持ち込んだ規格](http://kenji.blog/p/history-of-pdf-format/)
+- Sep 27 - [ループエンジニアリングと量子重力理論の交差点](http://kenji.blog/p/loop-quantum-gravity-engineering/)
+- Sep 27 - [暗黒物質（ダークマター）と暗黒エネルギー：宇宙を支配する見えない力](http://kenji.blog/p/dark-matter-dark-energy-mysteries/)
+- Sep 27 - [AR（拡張現実）とVR（仮想現実）のレンダリング技術](http://kenji.blog/p/augmented-reality-ar-virtual-reality-vr/)
+- Sep 27 - [NFT（非代替性トークン）とERC-721の技術的裏側](http://kenji.blog/p/nft-non-fungible-token-erc721/)
+- Sep 27 - [エッジコンピューティングとIoTのアーキテクチャ](http://kenji.blog/p/edge-computing-iot-architecture/)
+- Sep 27 - [ローコード／ノーコード開発の光と影](http://kenji.blog/p/low-code-no-code-development-future/)
+- Sep 27 - [量子コンピュータの基礎：量子的重ね合わせとショアのアルゴリズム](http://kenji.blog/p/quantum-computing-qubit-shor-algorithm/)
+- Sep 27 - [公開鍵暗号の数学：RSAから楕円曲線暗号（ECC）へ](http://kenji.blog/p/public-key-cryptography-rsa-ecc/)
+- Sep 27 - [スマートコントラクトとEVM（Ethereum Virtual Machine）の構造](http://kenji.blog/p/web3-smart-contract-ethereum-solidity/)
+- Sep 27 - [XSSとCSRFの本質的な違いとモダンな防御策](http://kenji.blog/p/cross-site-scripting-xss-csrf-security/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
