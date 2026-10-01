@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Sep 27 - [ループエンジニアリングと量子重力理論の交差点](http://kenji.blog/p/loop-quantum-gravity-engineering/)
-- Sep 27 - [暗黒物質（ダークマター）と暗黒エネルギー：宇宙を支配する見えない力](http://kenji.blog/p/dark-matter-dark-energy-mysteries/)
-- Sep 27 - [AR（拡張現実）とVR（仮想現実）のレンダリング技術](http://kenji.blog/p/augmented-reality-ar-virtual-reality-vr/)
-- Sep 27 - [NFT（非代替性トークン）とERC-721の技術的裏側](http://kenji.blog/p/nft-non-fungible-token-erc721/)
-- Sep 27 - [エッジコンピューティングとIoTのアーキテクチャ](http://kenji.blog/p/edge-computing-iot-architecture/)
-- Sep 27 - [ローコード／ノーコード開発の光と影](http://kenji.blog/p/low-code-no-code-development-future/)
-- Sep 27 - [量子コンピュータの基礎：量子的重ね合わせとショアのアルゴリズム](http://kenji.blog/p/quantum-computing-qubit-shor-algorithm/)
-- Sep 27 - [公開鍵暗号の数学：RSAから楕円曲線暗号（ECC）へ](http://kenji.blog/p/public-key-cryptography-rsa-ecc/)
-- Sep 27 - [スマートコントラクトとEVM（Ethereum Virtual Machine）の構造](http://kenji.blog/p/web3-smart-contract-ethereum-solidity/)
-- Sep 27 - [XSSとCSRFの本質的な違いとモダンな防御策](http://kenji.blog/p/cross-site-scripting-xss-csrf-security/)
+- Oct 01 - [不動産業界の仕組み：土地と建物が織りなす巨大な経済圏](http://kenji.blog/p/real-estate-industry-mechanism/)
+- Oct 01 - [投資の歴史：人類はいかにしてリスクとリターンを発明したのか](http://kenji.blog/p/history-of-investment-finance/)
+- Oct 01 - [Dockerの使い方と仕組み：コンテナ技術が変えたインフラの世界](http://kenji.blog/p/docker-container-architecture-usage/)
+- Oct 01 - [LINEとは：東日本大震災から生まれた国民的メッセージングアプリ](http://kenji.blog/p/line-messaging-app-history-features/)
+- Oct 01 - [WhatsAppとは：世界20億人が使うメッセージングアプリの裏側](http://kenji.blog/p/whatsapp-messaging-app-encryption/)
+- Oct 01 - [ルービックキューブの解法：群論とアルゴリズムが導く6面完成の道](http://kenji.blog/p/rubiks-cube-solution-algorithms/)
+- Oct 01 - [老化の仕組み：私たちはなぜ老いるのか](http://kenji.blog/p/mechanism-of-aging-biology/)
+- Oct 01 - [革製品の種類と魅力：牛、豚、馬、そしてエキゾチックレザー](http://kenji.blog/p/types-of-leather-products-guide/)
+- Oct 01 - [鉱石・鉱物の種類と仕組み：地球が何億年もかけて創り出した結晶](http://kenji.blog/p/types-of-minerals-ores-geology/)
+- Oct 01 - [ブラックホールの仕組み：光すら逃れられない時空の特異点](http://kenji.blog/p/black-hole-event-horizon-mechanism/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
