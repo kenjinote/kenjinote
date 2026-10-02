@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 02 - [スタジオジブリ映画の全貌：アニメーション技術と自然のメッセージ](http://kenji.blog/p/studio-ghibli-movies-complete-guide/)
+- Oct 02 - [インターネットの仕組み：海底ケーブルからWeb3まで、世界を繋ぐ巨大ネットワークの全貌](http://kenji.blog/p/how-the-internet-works-comprehensive-guide/)
+- Oct 02 - [アジャイル開発：変化を抱擁する現代のソフトウェアエンジニアリング](http://kenji.blog/p/agile-software-development-methodology/)
+- Oct 02 - [ウォーターフォールモデル：ソフトウェア開発における伝統と確実性の追求](http://kenji.blog/p/waterfall-model-software-development/)
+- Oct 02 - [エーテル (物理学)：光を伝える幻の媒質と科学史の転換点](http://kenji.blog/p/aether-luminiferous-physics-history/)
+- Oct 02 - [フリードリヒ・エンゲルス：マルクスを支えた資本家にして革命家](http://kenji.blog/p/friedrich-engels-biography-philosophy/)
 - Oct 01 - [不動産業界の仕組み：土地と建物が織りなす巨大な経済圏](http://kenji.blog/p/real-estate-industry-mechanism/)
 - Oct 01 - [投資の歴史：人類はいかにしてリスクとリターンを発明したのか](http://kenji.blog/p/history-of-investment-finance/)
 - Oct 01 - [Dockerの使い方と仕組み：コンテナ技術が変えたインフラの世界](http://kenji.blog/p/docker-container-architecture-usage/)
 - Oct 01 - [LINEとは：東日本大震災から生まれた国民的メッセージングアプリ](http://kenji.blog/p/line-messaging-app-history-features/)
-- Oct 01 - [WhatsAppとは：世界20億人が使うメッセージングアプリの裏側](http://kenji.blog/p/whatsapp-messaging-app-encryption/)
-- Oct 01 - [ルービックキューブの解法：群論とアルゴリズムが導く6面完成の道](http://kenji.blog/p/rubiks-cube-solution-algorithms/)
-- Oct 01 - [老化の仕組み：私たちはなぜ老いるのか](http://kenji.blog/p/mechanism-of-aging-biology/)
-- Oct 01 - [革製品の種類と魅力：牛、豚、馬、そしてエキゾチックレザー](http://kenji.blog/p/types-of-leather-products-guide/)
-- Oct 01 - [鉱石・鉱物の種類と仕組み：地球が何億年もかけて創り出した結晶](http://kenji.blog/p/types-of-minerals-ores-geology/)
-- Oct 01 - [ブラックホールの仕組み：光すら逃れられない時空の特異点](http://kenji.blog/p/black-hole-event-horizon-mechanism/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
