@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Oct 02 - [スタジオジブリ映画の全貌：アニメーション技術と自然のメッセージ](http://kenji.blog/p/studio-ghibli-movies-complete-guide/)
-- Oct 02 - [インターネットの仕組み：海底ケーブルからWeb3まで、世界を繋ぐ巨大ネットワークの全貌](http://kenji.blog/p/how-the-internet-works-comprehensive-guide/)
-- Oct 02 - [アジャイル開発：変化を抱擁する現代のソフトウェアエンジニアリング](http://kenji.blog/p/agile-software-development-methodology/)
-- Oct 02 - [ウォーターフォールモデル：ソフトウェア開発における伝統と確実性の追求](http://kenji.blog/p/waterfall-model-software-development/)
-- Oct 02 - [エーテル (物理学)：光を伝える幻の媒質と科学史の転換点](http://kenji.blog/p/aether-luminiferous-physics-history/)
-- Oct 02 - [フリードリヒ・エンゲルス：マルクスを支えた資本家にして革命家](http://kenji.blog/p/friedrich-engels-biography-philosophy/)
-- Oct 01 - [不動産業界の仕組み：土地と建物が織りなす巨大な経済圏](http://kenji.blog/p/real-estate-industry-mechanism/)
-- Oct 01 - [投資の歴史：人類はいかにしてリスクとリターンを発明したのか](http://kenji.blog/p/history-of-investment-finance/)
-- Oct 01 - [Dockerの使い方と仕組み：コンテナ技術が変えたインフラの世界](http://kenji.blog/p/docker-container-architecture-usage/)
-- Oct 01 - [LINEとは：東日本大震災から生まれた国民的メッセージングアプリ](http://kenji.blog/p/line-messaging-app-history-features/)
+- Oct 03 - [アメリカ合衆国通史：13植民地の胎動・独立革命・南北戦争・超大国の覇権から現代の分断と再生まで](http://kenji.blog/p/history-of-the-united-states-colonial-to-modern/)
+- Oct 03 - [イギリス通史：アングロ・サクソン・ノルマン征服・マグナ・カルタ・大英帝国の覇権からブレグジットの現代まで](http://kenji.blog/p/history-of-britain-anglo-saxon-to-modern-uk/)
+- Oct 03 - [フランス通史：カペー朝の黎明・ブルボン絶対王政・フランス大革命・ナポレオン帝国から第五共和政の現在まで](http://kenji.blog/p/history-of-france-monarchy-revolution-to-republic/)
+- Oct 03 - [天皇制の精神史と構造力学：古代王権・律令祭祀・武家政権下の象徴化・帝国憲法から日本国憲法第1条まで](http://kenji.blog/p/emperor-of-japan-history-tenno-symbolic-system/)
+- Oct 03 - [Blender 3DCG完全マスターガイド：基本操作からモデリング、シェーダー、リギング、Geometry Nodes、Cyclesレンダリングの極限まで](http://kenji.blog/p/blender-3d-computer-graphics-complete-master-guide/)
+- Oct 03 - [ピーター・ドラッカーのマネジメント哲学と知識社会の未来：組織・人間・イノベーションの深層](http://kenji.blog/p/peter-drucker-management-philosophy-knowledge-society/)
+- Oct 03 - [テクニカルチャート分析の極致：ダウ理論・エリオット波動からプライスアクション・市場心理・資金管理の数理まで](http://kenji.blog/p/technical-chart-analysis-trading-market-psychology/)
+- Oct 03 - [医師という実存：医学教育6年間・国家試験・臨床研修・新専門医制度から医療法規・生命倫理の深淵まで](http://kenji.blog/p/medical-doctor-education-qualifications-specialties/)
+- Oct 03 - [弁護士という天命：法科大学院・予備試験・司法試験・司法修習から弁護士倫理・実務訴訟・先端企業法務まで](http://kenji.blog/p/lawyer-attorney-legal-education-bar-exam-practice/)
+- Oct 03 - [作物の遺伝子組み換えとゲノム編集の科学大全：分子生物学の原理、安全性評価、生態系影響、法規制、そして食料危機の未来戦略](http://kenji.blog/p/genetically-modified-crops-biotechnology-agriculture-safety-future/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
