@@ -7,6 +7,8 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 06 - [COVID-19 mRNAワクチンの科学的メカニズムと全貌：分子生物学・LNP工学・多層的免疫応答から未来の医療革命まで](http://kenji.blog/p/covid19-mrna-vaccine-science-mechanisms-future/)
+- Oct 06 - [三国志完全詳説：黄巾の乱・官渡・赤壁・五丈原から西晋統一まで —— 正史と演義が織りなす乱世の政治思想・軍事戦略・人物論](http://kenji.blog/p/three-kingdoms-history-strategy-culture-complete-guide/)
 - Oct 05 - [日本の高度経済成長（1955-1973）の全貌：戦後復興から奇跡の跳躍、そして光と影の多角的解剖](http://kenji.blog/p/japan-postwar-economic-miracle-analysis/)
 - Oct 05 - [ChatGPT dots（OpenAI dots）徹底解剖：常時稼働型自律AIエージェントの衝撃とビジネス・技術の全貌](http://kenji.blog/p/chatgpt-dots-openai-always-on-agents/)
 - Oct 05 - [日本の「失われた30年」の全貌：バブル崩壊からデフレ・スパイラル、構造的衰退、そして再生への歴史的総括](http://kenji.blog/p/japan-lost-decades-economic-history-complete-guide/)
@@ -15,8 +17,6 @@ Microsoft MVP Since 2017 - 2026🐳.
 - Oct 03 - [アメリカ合衆国通史：13植民地の胎動・独立革命・南北戦争・超大国の覇権から現代の分断と再生まで](http://kenji.blog/p/history-of-the-united-states-colonial-to-modern/)
 - Oct 03 - [イギリス通史：アングロ・サクソン・ノルマン征服・マグナ・カルタ・大英帝国の覇権からブレグジットの現代まで](http://kenji.blog/p/history-of-britain-anglo-saxon-to-modern-uk/)
 - Oct 03 - [フランス通史：カペー朝の黎明・ブルボン絶対王政・フランス大革命・ナポレオン帝国から第五共和政の現在まで](http://kenji.blog/p/history-of-france-monarchy-revolution-to-republic/)
-- Oct 03 - [天皇制の精神史と構造力学：古代王権・律令祭祀・武家政権下の象徴化・帝国憲法から日本国憲法第1条まで](http://kenji.blog/p/emperor-of-japan-history-tenno-symbolic-system/)
-- Oct 03 - [Blender 3DCG完全マスターガイド：基本操作からモデリング、シェーダー、リギング、Geometry Nodes、Cyclesレンダリングの極限まで](http://kenji.blog/p/blender-3d-computer-graphics-complete-master-guide/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
