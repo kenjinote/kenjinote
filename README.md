@@ -7,6 +7,8 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 09 - [スター・ウォーズ全貌解説：銀河の歴史、映画とドラマ、フォース、制作の舞台裏を読み解く](http://kenji.blog/p/star-wars-complete-guide/)
+- Oct 08 - [「過去のアプリを決して壊すな」——Windowsを世界覇者に押し上げた狂気の後方互換性と泥臭きエンジニアリングの真実](http://kenji.blog/p/windows-backward-compatibility-appcompat-architecture/)
 - Oct 06 - [COVID-19 mRNAワクチンの科学的メカニズムと全貌：分子生物学・LNP工学・多層的免疫応答から未来の医療革命まで](http://kenji.blog/p/covid19-mrna-vaccine-science-mechanisms-future/)
 - Oct 06 - [三国志完全詳説：黄巾の乱・官渡・赤壁・五丈原から西晋統一まで —— 正史と演義が織りなす乱世の政治思想・軍事戦略・人物論](http://kenji.blog/p/three-kingdoms-history-strategy-culture-complete-guide/)
 - Oct 05 - [日本の高度経済成長（1955-1973）の全貌：戦後復興から奇跡の跳躍、そして光と影の多角的解剖](http://kenji.blog/p/japan-postwar-economic-miracle-analysis/)
@@ -15,8 +17,6 @@ Microsoft MVP Since 2017 - 2026🐳.
 - Oct 05 - [React Native完全詳解アーキテクチャと実践入門大全：新旧アーキテクチャ（Fabric・TurboModules・Hermes）の深層、クロスプラットフォーム開発、パフォーマンス最適化から本番運用まで](http://kenji.blog/p/react-native-architecture-complete-guide-from-basics-to-advanced/)
 - Oct 05 - [台風の気象力学と歴史的巨大災害大全：巨大熱機関の物理、室戸・枕崎・伊勢湾から現代の激甚気象、高潮・暴風シミュレーションと完全防災戦略](http://kenji.blog/p/typhoon-meteorology-mechanisms-historic-disasters-guide/)
 - Oct 03 - [アメリカ合衆国通史：13植民地の胎動・独立革命・南北戦争・超大国の覇権から現代の分断と再生まで](http://kenji.blog/p/history-of-the-united-states-colonial-to-modern/)
-- Oct 03 - [イギリス通史：アングロ・サクソン・ノルマン征服・マグナ・カルタ・大英帝国の覇権からブレグジットの現代まで](http://kenji.blog/p/history-of-britain-anglo-saxon-to-modern-uk/)
-- Oct 03 - [フランス通史：カペー朝の黎明・ブルボン絶対王政・フランス大革命・ナポレオン帝国から第五共和政の現在まで](http://kenji.blog/p/history-of-france-monarchy-revolution-to-republic/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
