@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Oct 12 - [オークション理論とゲーム理論：ヴィックリー・メカニズム、周波数オークション、そして現代広告経済の数学](http://kenji.blog/p/auction-theory-game-theory-vickrey-mechanism-design-guide/)
+- Oct 12 - [近代郵便制度と情報ネットワーク革命：ペニー・ブラック、ローランド・ヒルの均一料金制、そして万国郵便連合（UPU）](http://kenji.blog/p/postal-system-modern-history-penny-black-upu-network-guide/)
+- Oct 12 - [中世都市同盟の興亡：ハンザ同盟の商業ネットワーク、コグ船、そして近代主権国家への敗北](http://kenji.blog/p/hanseatic-league-medieval-trade-cog-merchant-republics-guide/)
+- Oct 12 - [香辛料貿易と近代世界経済の誕生：胡椒・クローブ・大航海時代からオランダ東インド会社（VOC）と株式会社制度まで](http://kenji.blog/p/spice-trade-global-economy-age-of-discovery-monopoly-guide/)
+- Oct 12 - [活版印刷と知識革命：グーテンベルクの技術複合・宗教改革・近代科学の離陸と東アジア比較論](http://kenji.blog/p/movable-type-printing-gutenberg-knowledge-revolution-guide/)
+- Oct 12 - [未解読文字の解読史：ロゼッタストーンから線文字B・マヤ文字・インダス文字の謎まで](http://kenji.blog/p/undeciphered-scripts-rosetta-stone-linear-b-maya-guide/)
+- Oct 12 - [雪の結晶物理学：中谷ダイヤグラム・水蒸気過飽和度・六角対称性と非平衡パターン形成の全貌](http://kenji.blog/p/snow-crystal-physics-nakaya-diagram-supersaturation-guide/)
+- Oct 12 - [年代測定の科学：放射性同位体・炭素14・年輪年代学から地球46億年の探求まで](http://kenji.blog/p/radiometric-dating-carbon14-dendrochronology-earth-age-guide/)
+- Oct 12 - [深海生態系と熱水噴出孔の科学：太陽光に依存しない化学合成・極限環境適応・生命起源論と宇宙生物学の全貌](http://kenji.blog/p/deep-sea-hydrothermal-vent-ecosystem-chemosynthesis-guide/)
 - Oct 11 - [「不寛容をどこまで許容すべきか」——寛容のパラドックスの全貌：ポパーの原典誤読、ロールズ正義論、戦う民主主義、そしてSNS時代のキャンセルカルチャーとAI検閲](http://kenji.blog/p/paradox-of-tolerance-popper-rawls-free-speech-democracy-guide/)
-- Oct 09 - [「なぜ日本企業の情報漏えいは止まらないのか」——2026年サイバー危機の本質：多重下請けの盲点、形骸化した境界防御、そしてゼロトラスト完全移行の実践体系](http://kenji.blog/p/japan-cybersecurity-data-leak-crisis-zero-trust-guide/)
-- Oct 09 - [スター・ウォーズ全貌解説：銀河の歴史、映画とドラマ、フォース、制作の舞台裏を読み解く](http://kenji.blog/p/star-wars-complete-guide/)
-- Oct 08 - [「過去のアプリを決して壊すな」——Windowsを世界覇者に押し上げた狂気の後方互換性と泥臭きエンジニアリングの真実](http://kenji.blog/p/windows-backward-compatibility-appcompat-architecture/)
-- Oct 06 - [COVID-19 mRNAワクチンの科学的メカニズムと全貌：分子生物学・LNP工学・多層的免疫応答から未来の医療革命まで](http://kenji.blog/p/covid19-mrna-vaccine-science-mechanisms-future/)
-- Oct 06 - [三国志完全詳説：黄巾の乱・官渡・赤壁・五丈原から西晋統一まで —— 正史と演義が織りなす乱世の政治思想・軍事戦略・人物論](http://kenji.blog/p/three-kingdoms-history-strategy-culture-complete-guide/)
-- Oct 05 - [日本の高度経済成長（1955-1973）の全貌：戦後復興から奇跡の跳躍、そして光と影の多角的解剖](http://kenji.blog/p/japan-postwar-economic-miracle-analysis/)
-- Oct 05 - [ChatGPT dots（OpenAI dots）徹底解剖：常時稼働型自律AIエージェントの衝撃とビジネス・技術の全貌](http://kenji.blog/p/chatgpt-dots-openai-always-on-agents/)
-- Oct 05 - [日本の「失われた30年」の全貌：バブル崩壊からデフレ・スパイラル、構造的衰退、そして再生への歴史的総括](http://kenji.blog/p/japan-lost-decades-economic-history-complete-guide/)
-- Oct 05 - [React Native完全詳解アーキテクチャと実践入門大全：新旧アーキテクチャ（Fabric・TurboModules・Hermes）の深層、クロスプラットフォーム開発、パフォーマンス最適化から本番運用まで](http://kenji.blog/p/react-native-architecture-complete-guide-from-basics-to-advanced/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
