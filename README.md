@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Oct 12 - [オークション理論とゲーム理論：ヴィックリー・メカニズム、周波数オークション、そして現代広告経済の数学](http://kenji.blog/p/auction-theory-game-theory-vickrey-mechanism-design-guide/)
-- Oct 12 - [近代郵便制度と情報ネットワーク革命：ペニー・ブラック、ローランド・ヒルの均一料金制、そして万国郵便連合（UPU）](http://kenji.blog/p/postal-system-modern-history-penny-black-upu-network-guide/)
-- Oct 12 - [中世都市同盟の興亡：ハンザ同盟の商業ネットワーク、コグ船、そして近代主権国家への敗北](http://kenji.blog/p/hanseatic-league-medieval-trade-cog-merchant-republics-guide/)
-- Oct 12 - [香辛料貿易と近代世界経済の誕生：胡椒・クローブ・大航海時代からオランダ東インド会社（VOC）と株式会社制度まで](http://kenji.blog/p/spice-trade-global-economy-age-of-discovery-monopoly-guide/)
-- Oct 12 - [活版印刷と知識革命：グーテンベルクの技術複合・宗教改革・近代科学の離陸と東アジア比較論](http://kenji.blog/p/movable-type-printing-gutenberg-knowledge-revolution-guide/)
-- Oct 12 - [未解読文字の解読史：ロゼッタストーンから線文字B・マヤ文字・インダス文字の謎まで](http://kenji.blog/p/undeciphered-scripts-rosetta-stone-linear-b-maya-guide/)
-- Oct 12 - [雪の結晶物理学：中谷ダイヤグラム・水蒸気過飽和度・六角対称性と非平衡パターン形成の全貌](http://kenji.blog/p/snow-crystal-physics-nakaya-diagram-supersaturation-guide/)
-- Oct 12 - [年代測定の科学：放射性同位体・炭素14・年輪年代学から地球46億年の探求まで](http://kenji.blog/p/radiometric-dating-carbon14-dendrochronology-earth-age-guide/)
-- Oct 12 - [深海生態系と熱水噴出孔の科学：太陽光に依存しない化学合成・極限環境適応・生命起源論と宇宙生物学の全貌](http://kenji.blog/p/deep-sea-hydrothermal-vent-ecosystem-chemosynthesis-guide/)
-- Oct 11 - [「不寛容をどこまで許容すべきか」——寛容のパラドックスの全貌：ポパーの原典誤読、ロールズ正義論、戦う民主主義、そしてSNS時代のキャンセルカルチャーとAI検閲](http://kenji.blog/p/paradox-of-tolerance-popper-rawls-free-speech-democracy-guide/)
+- Oct 13 - [『フランケンシュタイン』と科学者の倫理：生命創造の傲慢、責任の放棄、近代バイオエシックスの起源](http://kenji.blog/p/mary-shelley-frankenstein-origin-science-responsibility-analysis/)
+- Oct 13 - [アガサ・クリスティーの叙述・心理的ミスディレクション：読者を欺く認知的盲点と本格ミステリの構造力学](http://kenji.blog/p/agatha-christie-detective-fiction-misdirection-narrative-art/)
+- Oct 13 - [オスマン帝国の統治機構と軍制史：デヴシルメ制度、イェニチェリ軍団、ミッレト制の比較制度分析](http://kenji.blog/p/ottoman-empire-history-institutions-devshirme-millet-system/)
+- Oct 13 - [ジュール・ヴェルヌと空想科学小説：『驚異の旅』が切り拓いた予言と現実、近代技術文明の光と影](http://kenji.blog/p/jules-verne-science-fiction-extraordinary-voyages-prophecy-reality/)
+- Oct 13 - [シルクロードの交易路と文化伝播：オアシスの道・草原の道・海の道が紡いだユーラシア文明交流史](http://kenji.blog/p/silk-road-history-trade-routes-cultural-exchange-civilization/)
+- Oct 13 - [運河・閘門と世界海上交通：スエズ・パナマから閘門流体力学、チョークポイント地政学まで](http://kenji.blog/p/canals-locks-panama-suez-civil-engineering-maritime-history/)
+- Oct 13 - [顔料・染料の化学と色彩の文明史：発色団の量子論からプルシアンブルー、パーキンの合成染料革命まで](http://kenji.blog/p/history-of-colors-pigments-dyes-chemistry-art-industry/)
+- Oct 13 - [南極大陸の氷床力学と極限生態系：氷河底湖ボストークから棚氷崩壊、古気候コア解析まで](http://kenji.blog/p/antarctica-ice-sheet-ecosystem-polar-exploration-climate-science/)
+- Oct 13 - [コーヒーの科学：精製発酵・焙煎熱分解・粉体抽出流体力学から官能知覚機構までの完全体系](http://kenji.blog/p/coffee-science-chemistry-roasting-extraction-flavor-guide/)
+- Oct 13 - [チョコレートの科学：カカオ結晶多形・テンパリング工学・レオロジーからコンチング物理化学まで](http://kenji.blog/p/chocolate-science-cacao-crystallization-polymorphism-tempering/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
