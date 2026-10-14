@@ -7,16 +7,16 @@ Microsoft MVP Since 2017 - 2026🐳.
 
 ### Recent Blog Posts
 <!-- feed start -->
-- Oct 13 - [『フランケンシュタイン』と科学者の倫理：生命創造の傲慢、責任の放棄、近代バイオエシックスの起源](http://kenji.blog/p/mary-shelley-frankenstein-origin-science-responsibility-analysis/)
-- Oct 13 - [アガサ・クリスティーの叙述・心理的ミスディレクション：読者を欺く認知的盲点と本格ミステリの構造力学](http://kenji.blog/p/agatha-christie-detective-fiction-misdirection-narrative-art/)
-- Oct 13 - [オスマン帝国の統治機構と軍制史：デヴシルメ制度、イェニチェリ軍団、ミッレト制の比較制度分析](http://kenji.blog/p/ottoman-empire-history-institutions-devshirme-millet-system/)
-- Oct 13 - [ジュール・ヴェルヌと空想科学小説：『驚異の旅』が切り拓いた予言と現実、近代技術文明の光と影](http://kenji.blog/p/jules-verne-science-fiction-extraordinary-voyages-prophecy-reality/)
-- Oct 13 - [シルクロードの交易路と文化伝播：オアシスの道・草原の道・海の道が紡いだユーラシア文明交流史](http://kenji.blog/p/silk-road-history-trade-routes-cultural-exchange-civilization/)
-- Oct 13 - [運河・閘門と世界海上交通：スエズ・パナマから閘門流体力学、チョークポイント地政学まで](http://kenji.blog/p/canals-locks-panama-suez-civil-engineering-maritime-history/)
-- Oct 13 - [顔料・染料の化学と色彩の文明史：発色団の量子論からプルシアンブルー、パーキンの合成染料革命まで](http://kenji.blog/p/history-of-colors-pigments-dyes-chemistry-art-industry/)
-- Oct 13 - [南極大陸の氷床力学と極限生態系：氷河底湖ボストークから棚氷崩壊、古気候コア解析まで](http://kenji.blog/p/antarctica-ice-sheet-ecosystem-polar-exploration-climate-science/)
-- Oct 13 - [コーヒーの科学：精製発酵・焙煎熱分解・粉体抽出流体力学から官能知覚機構までの完全体系](http://kenji.blog/p/coffee-science-chemistry-roasting-extraction-flavor-guide/)
-- Oct 13 - [チョコレートの科学：カカオ結晶多形・テンパリング工学・レオロジーからコンチング物理化学まで](http://kenji.blog/p/chocolate-science-cacao-crystallization-polymorphism-tempering/)
+- Oct 13 - [「複雑さ」は文字数では測れない：コルモゴロフ複雑性とランダムの正体](http://kenji.blog/p/kolmogorov-complexity-algorithmic-information-theory-incompressibility-randomness/)
+- Oct 13 - [ノートやスマートフォンは「心」の一部なのか：拡張された心の哲学と認知の境界](http://kenji.blog/p/extended-mind-thesis-clark-chalmers-active-externalism-cognitive-science/)
+- Oct 13 - [でたらめな入力で、なぜ重大なバグが見つかるのか：ファジングの仕組み](http://kenji.blog/p/fuzzing-coverage-guided-mutation-afl-sanitizers-vulnerability-discovery/)
+- Oct 13 - [遺伝子を持たないタンパク質が、なぜ増えるように見えるのか：プリオンと構造の伝播](http://kenji.blog/p/prion-biology-protein-misfolding-amyloid-structural-propagation/)
+- Oct 13 - [一本の線で正方形を埋め尽くせるのか：空間充填曲線と次元の直感](http://kenji.blog/p/space-filling-curves-peano-hilbert-curve-fractal-dimension-topology/)
+- Oct 13 - [液体なのに結晶？：液晶がつなぐ秩序と流動性の世界](http://kenji.blog/p/liquid-crystals-nematic-smectic-phases-orientational-order-physics/)
+- Oct 13 - [音を当てると泡が光るのはなぜか：ソノルミネセンスと「フラスコの中の恒星」の物理学](http://kenji.blog/p/sonoluminescence-acoustic-cavitation-bubble-collapse-light-emission/)
+- Oct 13 - [科学と疑似科学の境界はどこにあるのか：反証可能性から研究プログラムまで](http://kenji.blog/p/demarcation-problem-science-pseudoscience-popper-falsifiability-lakatos/)
+- Oct 13 - [議席を増やしたのに議席を失う？：公平な配分を阻む数学のパラドックス](http://kenji.blog/p/apportionment-paradoxes-alabama-paradox-hamilton-jefferson-fair-representation/)
+- Oct 13 - [決められた手順から、どうやって「乱数」をつくるのか：予測不能性の技術](http://kenji.blog/p/pseudorandom-number-generators-csprng-entropy-mersenne-twister-cryptography/)
 <!-- feed end -->
 
 <!-- GitHub Profile Views Counter -->
